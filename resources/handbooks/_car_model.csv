@@ -1,0 +1,2572 @@
+"1","1","378 GT Zagato","1",NULL
+"2","1","Ace","1",NULL
+"3","1","Aceca","1",NULL
+"4","1","Cobra","1",NULL
+"5","2","CL","1",NULL
+"6","2","CSX","1",NULL
+"7","2","EL","1",NULL
+"8","2","ILX","1",NULL
+"9","2","Integra","1",NULL
+"10","2","Legend","1",NULL
+"11","2","MDX","1",NULL
+"12","2","NSX","1",NULL
+"13","2","RDX","1",NULL
+"14","2","RL","1",NULL
+"15","2","RLX","1",NULL
+"16","2","RSX","1",NULL
+"17","2","SLX","1",NULL
+"18","2","TL","1",NULL
+"19","2","TSX","1",NULL
+"20","2","ZDX","1",NULL
+"21","3","145","1",NULL
+"22","3","146","1",NULL
+"23","3","147","1",NULL
+"24","3","155","1",NULL
+"25","3","156","1",NULL
+"26","3","159","1",NULL
+"27","3","164","1",NULL
+"28","3","166","1",NULL
+"29","3","33","1",NULL
+"30","3","4C","1",NULL
+"31","3","6","1",NULL
+"32","3","75","1",NULL
+"33","3","8C Competizione","1",NULL
+"34","3","90","1",NULL
+"35","3","Alfasud","1",NULL
+"36","3","Alfetta","1",NULL
+"37","3","Arna","1",NULL
+"38","3","Brera","1",NULL
+"39","3","Giulia","1",NULL
+"40","3","Giulietta","1",NULL
+"41","3","GT","1",NULL
+"42","3","GTA Coupe","1",NULL
+"43","3","GTV","1",NULL
+"44","3","MiTo","1",NULL
+"45","3","Montreal","1",NULL
+"46","3","RZ","1",NULL
+"47","3","Spider","1",NULL
+"48","3","Sprint","1",NULL
+"49","3","SZ","1",NULL
+"50","4","A110","1",NULL
+"51","4","A310","1",NULL
+"52","4","A610","1",NULL
+"53","4","GTA","1",NULL
+"54","5","HMMWV (Humvee)","1",NULL
+"55","6","Atom","1",NULL
+"56","7","10","1",NULL
+"57","7","24","1",NULL
+"58","8","Retona","1",NULL
+"59","8","Rocsta","1",NULL
+"60","9","Bulldog","1",NULL
+"61","9","Cygnet","1",NULL
+"62","9","DB7","1",NULL
+"63","9","DB9","1",NULL
+"64","9","DBS","1",NULL
+"65","9","Lagonda","1",NULL
+"66","9","One-77","1",NULL
+"67","9","Rapide","1",NULL
+"68","9","Tickford Capri","1",NULL
+"69","9","V12 Vanquish","1",NULL
+"70","9","V12 Vantage","1",NULL
+"71","9","V12 Zagato","1",NULL
+"72","9","V8 Vantage","1",NULL
+"73","9","V8 Zagato","1",NULL
+"74","9","Virage","1",NULL
+"75","10","100","1",NULL
+"76","10","200","1",NULL
+"77","10","50","1",NULL
+"78","10","80","1",NULL
+"79","10","90","1",NULL
+"80","10","A1","1",NULL
+"81","10","A2","1",NULL
+"82","10","A3","1",NULL
+"83","10","A4 allroad","1",NULL
+"84","10","A4","1",NULL
+"85","10","A5","1",NULL
+"86","10","A6 allroad","1",NULL
+"87","10","A6","1",NULL
+"88","10","A7","1",NULL
+"89","10","A8","1",NULL
+"90","10","Cabriolet","1",NULL
+"91","10","Coupe","1",NULL
+"92","10","NSU RO 80","1",NULL
+"93","10","Q3","1",NULL
+"94","10","Q5","1",NULL
+"95","10","Q7","1",NULL
+"96","10","quattro","1",NULL
+"97","10","R8","1",NULL
+"98","10","RS Q3","1",NULL
+"99","10","RS2","1",NULL
+"100","10","RS3","1",NULL
+"101","10","RS4","1",NULL
+"102","10","RS5","1",NULL
+"103","10","RS6","1",NULL
+"104","10","RS7","1",NULL
+"105","10","S1","1",NULL
+"106","10","S2","1",NULL
+"107","10","S3","1",NULL
+"108","10","S4","1",NULL
+"109","10","S5","1",NULL
+"110","10","S6","1",NULL
+"111","10","S7","1",NULL
+"112","10","S8","1",NULL
+"113","10","SQ5","1",NULL
+"114","10","TT","1",NULL
+"115","10","V8","1",NULL
+"116","11","Allegro","1",NULL
+"117","11","Ambassador","1",NULL
+"118","11","Maestro","1",NULL
+"119","11","Maxi","1",NULL
+"120","11","Metro","1",NULL
+"121","11","Mini","1",NULL
+"122","11","Montego","1",NULL
+"123","11","Princess","1",NULL
+"124","12","A 112","1",NULL
+"125","13","BD-1322","1",NULL
+"126","14","BJ2020","1",NULL
+"127","14","BJ212","1",NULL
+"128","15","Arnage","1",NULL
+"129","15","Azure","1",NULL
+"130","15","Brooklands","1",NULL
+"131","15","Continental","1",NULL
+"132","15","Continental Flying Spur","1",NULL
+"133","15","Continental GT","1",NULL
+"134","15","Eight","1",NULL
+"135","15","Flying Spur","1",NULL
+"136","15","Mulsanne","1",NULL
+"137","15","Turbo R","1",NULL
+"138","16","Freeclimber","1",NULL
+"139","17","Type 3","1",NULL
+"140","18","02 (E10)","1",NULL
+"141","18","1er","1",NULL
+"142","18","2er","1",NULL
+"143","18","2er Active Tourer","1",NULL
+"144","18","3er","1",NULL
+"145","18","4er","1",NULL
+"146","18","5er","1",NULL
+"147","18","6er","1",NULL
+"148","18","7er","1",NULL
+"149","18","8er","1",NULL
+"150","18","i3","1",NULL
+"151","18","i8","1",NULL
+"152","18","X1","1",NULL
+"153","18","X3","1",NULL
+"154","18","X4","1",NULL
+"155","18","X5","1",NULL
+"156","18","X6","1",NULL
+"157","18","Z1","1",NULL
+"158","18","Z3","1",NULL
+"159","18","Z4","1",NULL
+"160","18","Z8","1",NULL
+"169","20","7.3S","1",NULL
+"170","20","M V12","1",NULL
+"171","20","SV12","1",NULL
+"172","21","FRV (BS2)","1",NULL
+"173","21","M1 (BS6)","1",NULL
+"174","21","M2 (BS4)","1",NULL
+"175","21","M3 (BC3)","1",NULL
+"176","21","V5","1",NULL
+"177","22","Blenheim","1",NULL
+"178","22","Blenheim Speedster","1",NULL
+"179","22","Fighter","1",NULL
+"180","23","Geneva","1",NULL
+"181","23","La Joya","1",NULL
+"182","24","EB 110","1",NULL
+"183","24","EB 112","1",NULL
+"185","25","Century","1",NULL
+"186","25","Electra","1",NULL
+"187","25","Enclave","1",NULL
+"188","25","Excelle","1",NULL
+"189","25","GL8","1",NULL
+"190","25","LaCrosse","1",NULL
+"191","25","LeSabre","1",NULL
+"192","25","Lucerne","1",NULL
+"193","25","Park Avenue","1",NULL
+"194","25","Rainer","1",NULL
+"195","25","Reatta","1",NULL
+"196","25","Regal","1",NULL
+"197","25","Rendezvous","1",NULL
+"198","25","Riviera","1",NULL
+"199","25","Roadmaster","1",NULL
+"200","25","Skylark","1",NULL
+"201","25","Terraza","1",NULL
+"202","26","E6","1",NULL
+"203","26","F0","1",NULL
+"204","26","F3","1",NULL
+"205","26","F6","1",NULL
+"206","26","F8","1",NULL
+"207","26","Flyer","1",NULL
+"208","26","G3","1",NULL
+"209","26","G6","1",NULL
+"210","26","L3","1",NULL
+"211","26","M6","1",NULL
+"212","26","S6","1",NULL
+"213","27","BD132J (CoCo)","1",NULL
+"214","27","BD326J (Moca)","1",NULL
+"215","28","Allante","1",NULL
+"216","28","ATS","1",NULL
+"217","28","BLS","1",NULL
+"218","28","Brougham","1",NULL
+"219","28","Catera","1",NULL
+"220","28","CTS","1",NULL
+"221","28","De Ville","1",NULL
+"222","28","DTS","1",NULL
+"223","28","Eldorado","1",NULL
+"224","28","Escalade","1",NULL
+"225","28","Fleetwood","1",NULL
+"226","28","LSE","1",NULL
+"227","28","Seville","1",NULL
+"228","28","Sixty Special","1",NULL
+"229","28","SRX","1",NULL
+"230","28","STS","1",NULL
+"231","28","XLR","1",NULL
+"232","28","XTS","1",NULL
+"233","29","C12","1",NULL
+"234","30","FX4","1",NULL
+"235","31","21","1",NULL
+"236","31","CSR","1",NULL
+"237","31","Seven","1",NULL
+"238","32","Benni","1",NULL
+"239","32","CS35","1",NULL
+"240","32","Eado","1",NULL
+"241","32","Raeton","1",NULL
+"242","32","Z-Shine","1",NULL
+"244","33","Flying","1",NULL
+"245","33","SUV (CS6)","1",NULL
+"247","34","Amulet (A15)","1",NULL
+"248","34","Bonus (A13)","1",NULL
+"249","34","CrossEastar (B14)","1",NULL
+"250","34","Fora (A21)","1",NULL
+"251","34","IndiS (S18D)","1",NULL
+"252","34","Kimo (A1)","1",NULL
+"253","34","Oriental Son (B11)","1",NULL
+"254","34","QQ6 (S21)","1",NULL
+"255","34","Sweet (QQ)","1",NULL
+"256","34","Tiggo (T11)","1",NULL
+"257","34","Very","1",NULL
+"258","35","Alero","1",NULL
+"259","35","Astra","1",NULL
+"260","35","Astro","1",NULL
+"261","35","Avalanche","1",NULL
+"262","35","Aveo","1",NULL
+"263","35","Beretta","1",NULL
+"264","35","Blazer","1",NULL
+"265","35","Blazer K5","1",NULL
+"266","35","C-10","1",NULL
+"267","35","Camaro","1",NULL
+"268","35","Caprice","1",NULL
+"269","35","Captiva","1",NULL
+"270","35","Cavalier","1",NULL
+"271","35","Celebrity","1",NULL
+"272","35","Celta","1",NULL
+"273","35","Chevette","1",NULL
+"274","35","Citation","1",NULL
+"275","35","Classic","1",NULL
+"276","35","Cobalt","1",NULL
+"277","35","Colorado","1",NULL
+"278","35","Corsa","1",NULL
+"279","35","Corsica","1",NULL
+"280","35","Corvette","1",NULL
+"281","35","Cruze (HR)","1",NULL
+"282","35","Cruze","1",NULL
+"283","35","Epica","1",NULL
+"284","35","Equinox","1",NULL
+"285","35","Evanda","1",NULL
+"286","35","Express","1",NULL
+"287","35","HHR","1",NULL
+"288","35","Impala","1",NULL
+"289","35","Kalos","1",NULL
+"290","35","Lacetti","1",NULL
+"291","35","Lanos","1",NULL
+"292","35","Lumina","1",NULL
+"293","35","Lumina APV","1",NULL
+"294","35","LUV D-MAX","1",NULL
+"295","35","Malibu","1",NULL
+"296","35","Metro","1",NULL
+"297","35","Monte Carlo","1",NULL
+"298","35","Monza","1",NULL
+"299","35","MW","1",NULL
+"300","35","Niva","1",NULL
+"301","35","Nubira","1",NULL
+"302","35","Omega","1",NULL
+"303","35","Orlando","1",NULL
+"304","35","Prizm","1",NULL
+"305","35","Rezzo","1",NULL
+"306","35","S-10 Pickup","1",NULL
+"307","35","Sail","1",NULL
+"308","35","Sonic","1",NULL
+"309","35","Spark","1",NULL
+"310","35","SSR","1",NULL
+"311","35","Starcraft","1",NULL
+"312","35","Suburban","1",NULL
+"313","35","Tahoe","1",NULL
+"314","35","Tavera","1",NULL
+"315","35","Tracker","1",NULL
+"316","35","TrailBlazer","1",NULL
+"317","35","Trans Sport","1",NULL
+"318","36","200","1",NULL
+"319","36","300C","1",NULL
+"320","36","300M","1",NULL
+"321","36","Aspen","1",NULL
+"322","36","Cirrus","1",NULL
+"323","36","Concorde","1",NULL
+"324","36","Crossfire","1",NULL
+"325","36","Dynasty","1",NULL
+"326","36","Fifth Avenue","1",NULL
+"327","36","Imperial","1",NULL
+"328","36","Intrepid","1",NULL
+"329","36","Le Baron","1",NULL
+"330","36","LHS","1",NULL
+"331","36","Nassau","1",NULL
+"332","36","Neon","1",NULL
+"333","36","NEW Yorker","1",NULL
+"334","36","Pacifica","1",NULL
+"335","36","Prowler","1",NULL
+"336","36","PT Cruiser","1",NULL
+"337","36","Saratoga","1",NULL
+"338","36","Sebring","1",NULL
+"339","36","Stratus","1",NULL
+"340","36","TC by Maserati","1",NULL
+"341","36","Town & Country","1",NULL
+"342","36","Viper","1",NULL
+"343","36","Vision","1",NULL
+"344","36","Voyager","1",NULL
+"345","37","2 CV","1",NULL
+"346","37","AMI","1",NULL
+"347","37","Ax","1",NULL
+"348","37","Berlingo","1",NULL
+"349","37","BX","1",NULL
+"350","37","C-Crosser","1",NULL
+"351","37","C-Elysee","1",NULL
+"352","37","C1","1",NULL
+"353","37","C2","1",NULL
+"354","37","C3","1",NULL
+"355","37","C3 Picasso","1",NULL
+"356","37","C4 Aircross","1",NULL
+"357","37","C4 Cactus","1",NULL
+"358","37","C4","1",NULL
+"359","37","C4 Picasso","1",NULL
+"360","37","C5","1",NULL
+"361","37","C6","1",NULL
+"362","37","C8","1",NULL
+"363","37","CX","1",NULL
+"364","37","DS3","1",NULL
+"365","37","DS4","1",NULL
+"366","37","DS5","1",NULL
+"367","37","Dyane","1",NULL
+"368","37","Evasion","1",NULL
+"369","37","GS","1",NULL
+"371","37","Saxo","1",NULL
+"372","37","Visa","1",NULL
+"373","37","Xantia","1",NULL
+"374","37","XM","1",NULL
+"375","37","Xsara","1",NULL
+"376","37","Xsara Picasso","1",NULL
+"377","37","ZX","1",NULL
+"378","38","V16t","1",NULL
+"379","39","T Rex","1",NULL
+"380","40","1300","1",NULL
+"381","40","1310","1",NULL
+"382","40","1410","1",NULL
+"383","40","Dokker","1",NULL
+"384","40","Duster","1",NULL
+"385","40","Lodgy","1",NULL
+"386","40","Logan","1",NULL
+"387","40","Nova","1",NULL
+"388","40","Sandero","1",NULL
+"389","40","Solenza","1",NULL
+"390","41","City Leading","1",NULL
+"391","41","Shuttle","1",NULL
+"392","41","Smoothing","1",NULL
+"393","42","Arcadia","1",NULL
+"394","42","Chairman","1",NULL
+"395","42","Damas","1",NULL
+"396","42","Espero","1",NULL
+"397","42","Evanda","1",NULL
+"398","42","G2X","1",NULL
+"399","42","Gentra","1",NULL
+"400","42","Kalos","1",NULL
+"401","42","Korando","1",NULL
+"402","42","Lacetti","1",NULL
+"403","42","Lanos (Sens)","1",NULL
+"404","42","LE Mans","1",NULL
+"405","42","Leganza","1",NULL
+"406","42","Magnus","1",NULL
+"407","42","Matiz","1",NULL
+"408","42","Musso","1",NULL
+"409","42","Nexia","1",NULL
+"410","42","Nubira","1",NULL
+"411","42","Prince","1",NULL
+"412","42","Racer","1",NULL
+"413","42","Rezzo","1",NULL
+"414","42","Tacuma","1",NULL
+"415","42","Tico","1",NULL
+"416","42","Tosca","1",NULL
+"417","42","Winstorm","1",NULL
+"418","43","46","1",NULL
+"419","43","66","1",NULL
+"420","44","Altis","1",NULL
+"421","44","Applause","1",NULL
+"422","44","Atrai","1",NULL
+"423","44","Be-go","1",NULL
+"424","44","Boon","1",NULL
+"425","44","Ceria","1",NULL
+"426","44","Charade","1",NULL
+"427","44","Charmant","1",NULL
+"428","44","Coo","1",NULL
+"429","44","Copen","1",NULL
+"430","44","Cuore","1",NULL
+"431","44","Delta Wagon","1",NULL
+"432","44","Esse","1",NULL
+"433","44","Feroza","1",NULL
+"434","44","Gran Move","1",NULL
+"435","44","Leeza","1",NULL
+"436","44","Materia","1",NULL
+"437","44","MAX","1",NULL
+"438","44","Mira Gino","1",NULL
+"439","44","Mira","1",NULL
+"440","44","Move","1",NULL
+"441","44","Naked","1",NULL
+"442","44","Opti","1",NULL
+"443","44","Pyzar","1",NULL
+"444","44","Rocky","1",NULL
+"445","44","Sirion","1",NULL
+"446","44","Sonica","1",NULL
+"447","44","Storia","1",NULL
+"448","44","Taft","1",NULL
+"449","44","Tanto","1",NULL
+"450","44","Terios","1",NULL
+"451","44","Trevis","1",NULL
+"452","44","Wildcat","1",NULL
+"453","44","Xenia","1",NULL
+"454","44","YRV","1",NULL
+"455","45","DS420","1",NULL
+"456","45","Sovereign (XJ6)","1",NULL
+"457","45","X300","1",NULL
+"458","45","X308","1",NULL
+"459","45","X350","1",NULL
+"460","45","XJ40","1",NULL
+"461","45","XJS","1",NULL
+"463","47","280ZX","1",NULL
+"464","47","720","1",NULL
+"465","47","Bluebird","1",NULL
+"466","47","Cherry","1",NULL
+"467","47","GO","1",NULL
+"468","47","GO+","1",NULL
+"469","47","on-DO","1",NULL
+"470","47","Stanza","1",NULL
+"471","47","Sunny","1",NULL
+"472","47","Violet","1",NULL
+"473","48","Bigua","1",NULL
+"474","48","Guara","1",NULL
+"475","48","Mangusta","1",NULL
+"476","48","Pantera","1",NULL
+"477","48","Vallelunga","1",NULL
+"478","49","DMC-12","1",NULL
+"479","50","Antelope","1",NULL
+"480","50","Aurora","1",NULL
+"481","50","Cowboy","1",NULL
+"482","50","Land Crown","1",NULL
+"483","50","Plutus","1",NULL
+"484","50","Saladin","1",NULL
+"485","50","Shuttle","1",NULL
+"486","51","600","1",NULL
+"487","51","Aries","1",NULL
+"488","51","Avenger","1",NULL
+"489","51","Caliber","1",NULL
+"490","51","Caravan","1",NULL
+"491","51","Challenger","1",NULL
+"492","51","Charger","1",NULL
+"493","51","Dakota","1",NULL
+"494","51","Dart","1",NULL
+"495","51","Daytona","1",NULL
+"496","51","Durango","1",NULL
+"497","51","Dynasty","1",NULL
+"499","51","Intrepid","1",NULL
+"500","51","Journey","1",NULL
+"501","51","Magnum","1",NULL
+"502","51","Monaco","1",NULL
+"503","51","Neon","1",NULL
+"504","51","Nitro","1",NULL
+"505","51","Omni","1",NULL
+"506","51","RAM","1",NULL
+"507","51","Ramcharger","1",NULL
+"508","51","Shadow","1",NULL
+"509","51","Spirit","1",NULL
+"510","51","Stealth","1",NULL
+"511","51","Stratus","1",NULL
+"512","51","Viper","1",NULL
+"513","52","H30 Cross","1",NULL
+"514","52","MPV","1",NULL
+"515","52","Oting","1",NULL
+"516","52","Rich","1",NULL
+"517","53","Assol","1",NULL
+"518","53","Kondor","1",NULL
+"519","53","Orion","1",NULL
+"520","54","D8","1",NULL
+"521","55","GD04B","1",NULL
+"522","56","Premier","1",NULL
+"523","56","Summit","1",NULL
+"524","56","Talon","1",NULL
+"525","56","Vision","1",NULL
+"526","57","SS","1",NULL
+"527","58","Estrima Biro","1",NULL
+"530","59","Besturn B50","1",NULL
+"531","59","Besturn B70","1",NULL
+"533","59","City Golf","1",NULL
+"535","59","Jinn","1",NULL
+"536","59","Oley","1",NULL
+"537","59","V2","1",NULL
+"538","59","V5","1",NULL
+"539","59","Vita","1",NULL
+"540","60","208/308","1",NULL
+"541","60","328","1",NULL
+"542","60","348","1",NULL
+"543","60","360","1",NULL
+"544","60","400","1",NULL
+"545","60","412","1",NULL
+"546","60","456","1",NULL
+"547","60","458","1",NULL
+"548","60","512 BB","1",NULL
+"549","60","512 M","1",NULL
+"550","60","512 TR","1",NULL
+"551","60","550","1",NULL
+"552","60","575M","1",NULL
+"553","60","599","1",NULL
+"554","60","612","1",NULL
+"555","60","California","1",NULL
+"556","60","Enzo","1",NULL
+"557","60","F12berlinetta","1",NULL
+"558","60","F355","1",NULL
+"559","60","F40","1",NULL
+"560","60","F430","1",NULL
+"561","60","F50","1",NULL
+"562","60","FF","1",NULL
+"563","60","LaFerrari","1",NULL
+"564","60","Mondial","1",NULL
+"565","60","Testarossa","1",NULL
+"566","61","124","1",NULL
+"567","61","126","1",NULL
+"568","61","127","1",NULL
+"569","61","128","1",NULL
+"570","61","130","1",NULL
+"571","61","131","1",NULL
+"572","61","132","1",NULL
+"573","61","238","1",NULL
+"574","61","500","1",NULL
+"575","61","500L","1",NULL
+"576","61","600","1",NULL
+"577","61","900T","1",NULL
+"578","61","Albea","1",NULL
+"579","61","Argenta","1",NULL
+"580","61","Barchetta","1",NULL
+"581","61","Brava","1",NULL
+"582","61","Bravo","1",NULL
+"583","61","Cinquecento","1",NULL
+"584","61","Coupe","1",NULL
+"585","61","Croma","1",NULL
+"586","61","Doblo","1",NULL
+"587","61","Duna","1",NULL
+"588","61","Fiorino","1",NULL
+"589","61","Freemont","1",NULL
+"590","61","Idea","1",NULL
+"591","61","Linea","1",NULL
+"592","61","Marea","1",NULL
+"593","61","Multipla","1",NULL
+"594","61","Palio","1",NULL
+"595","61","Panda","1",NULL
+"596","61","Punto","1",NULL
+"597","61","Qubo","1",NULL
+"598","61","Regata","1",NULL
+"599","61","Ritmo","1",NULL
+"600","61","Sedici","1",NULL
+"601","61","Seicento","1",NULL
+"602","61","Siena","1",NULL
+"603","61","Stilo","1",NULL
+"604","61","Strada","1",NULL
+"605","61","Tempra","1",NULL
+"606","61","Tipo","1",NULL
+"607","61","Ulysse","1",NULL
+"608","61","UNO","1",NULL
+"609","61","X 1/9","1",NULL
+"610","62","Karma","1",NULL
+"611","63","Aerostar","1",NULL
+"612","63","Aspire","1",NULL
+"613","63","B-MAX","1",NULL
+"614","63","Bronco","1",NULL
+"615","63","C-MAX","1",NULL
+"616","63","Capri","1",NULL
+"617","63","Consul","1",NULL
+"618","63","Contour","1",NULL
+"619","63","Cougar","1",NULL
+"620","63","Crown Victoria","1",NULL
+"621","63","Econoline","1",NULL
+"622","63","EcoSport","1",NULL
+"623","63","Edge","1",NULL
+"624","63","Escape","1",NULL
+"625","63","Escort (North America)","1",NULL
+"626","63","Escort","1",NULL
+"627","63","Everest","1",NULL
+"628","63","Excursion","1",NULL
+"629","63","Expedition","1",NULL
+"630","63","Explorer","1",NULL
+"631","63","F-150","1",NULL
+"632","63","Fairmont","1",NULL
+"633","63","Festiva","1",NULL
+"634","63","Fiesta","1",NULL
+"635","63","Five Hundred","1",NULL
+"636","63","Flex","1",NULL
+"637","63","Focus","1",NULL
+"638","63","Freestar","1",NULL
+"639","63","Freestyle","1",NULL
+"640","63","Fusion (North America)","1",NULL
+"641","63","Fusion","1",NULL
+"642","63","Galaxy","1",NULL
+"643","63","Granada (North America)","1",NULL
+"644","63","Granada","1",NULL
+"645","63","GT","1",NULL
+"646","63","Ixion","1",NULL
+"647","63","KA","1",NULL
+"648","63","Kuga","1",NULL
+"649","63","Laser","1",NULL
+"650","63","LTD Crown Victoria","1",NULL
+"651","63","Maverick","1",NULL
+"652","63","Mondeo","1",NULL
+"653","63","Mustang","1",NULL
+"654","63","Orion","1",NULL
+"655","63","Probe","1",NULL
+"656","63","Puma","1",NULL
+"657","63","Ranger (North America)","1",NULL
+"658","63","Ranger","1",NULL
+"659","63","S-MAX","1",NULL
+"660","63","Scorpio","1",NULL
+"661","63","Sierra","1",NULL
+"663","63","Taunus","1",NULL
+"664","63","Taurus","1",NULL
+"665","63","Taurus X","1",NULL
+"666","63","Tempo","1",NULL
+"667","63","Thunderbird","1",NULL
+"668","63","Tourneo Connect","1",NULL
+"669","63","Windstar","1",NULL
+"670","64","Midi","1",NULL
+"671","64","Tunland","1",NULL
+"672","65","125p","1",NULL
+"673","65","126p","1",NULL
+"674","65","127p","1",NULL
+"675","65","132p","1",NULL
+"676","65","Polonez","1",NULL
+"677","66","6500 (Land King)","1",NULL
+"678","67","Beauty Leopard","1",NULL
+"679","67","CK (Otaka)","1",NULL
+"680","67","Emgrand EC7","1",NULL
+"681","67","Emgrand EC8","1",NULL
+"682","67","Emgrand X7","1",NULL
+"683","67","FC (Vision)","1",NULL
+"684","67","Haoqing","1",NULL
+"685","67","LC (Panda)","1",NULL
+"686","67","LC (Panda) Cross","1",NULL
+"687","67","MK Cross","1",NULL
+"688","67","MK","1",NULL
+"689","67","MR","1",NULL
+"690","68","Metro","1",NULL
+"691","68","Prizm","1",NULL
+"692","68","Spectrum","1",NULL
+"693","68","Storm","1",NULL
+"694","68","Tracker","1",NULL
+"695","69","Acadia","1",NULL
+"696","69","Canyon","1",NULL
+"697","69","Envoy","1",NULL
+"698","69","Jimmy","1",NULL
+"699","69","Safari","1",NULL
+"700","69","Savana","1",NULL
+"701","69","Sierra","1",NULL
+"702","69","Sonoma","1",NULL
+"703","69","Suburban","1",NULL
+"704","69","Syclone","1",NULL
+"705","69","Terrain","1",NULL
+"706","69","Typhoon","1",NULL
+"707","69","Vandura","1",NULL
+"708","69","Yukon","1",NULL
+"709","70","Troy","1",NULL
+"710","71","Coolbear","1",NULL
+"711","71","Cowry (V80)","1",NULL
+"712","71","Deer","1",NULL
+"713","71","Florid","1",NULL
+"714","71","Hover","1",NULL
+"715","71","Hover M1 (Peri 4x4)","1",NULL
+"716","71","Hover M2","1",NULL
+"717","71","Hover M4","1",NULL
+"718","71","Pegasus","1",NULL
+"719","71","Peri","1",NULL
+"720","71","Safe","1",NULL
+"721","71","Sailor","1",NULL
+"722","71","Sing RUV","1",NULL
+"723","71","Socool","1",NULL
+"724","71","Voleex C10 (Phenom)","1",NULL
+"725","71","Wingle","1",NULL
+"726","72","Brio","1",NULL
+"727","72","Princip","1",NULL
+"728","72","Saibao","1",NULL
+"729","72","Sigma","1",NULL
+"730","72","Simbo","1",NULL
+"731","73","3","1",NULL
+"732","73","7","1",NULL
+"733","73","M3","1",NULL
+"734","74","Ambassador","1",NULL
+"735","74","Contessa","1",NULL
+"736","75","Apollo","1",NULL
+"737","75","Astra","1",NULL
+"738","75","Barina","1",NULL
+"739","75","Calais","1",NULL
+"740","75","Caprice","1",NULL
+"742","75","Commodore","1",NULL
+"743","75","Cruze","1",NULL
+"744","75","Frontera","1",NULL
+"745","75","Jackaroo","1",NULL
+"746","75","Monaro","1",NULL
+"747","75","Rodeo","1",NULL
+"750","75","UTE","1",NULL
+"751","75","Vectra","1",NULL
+"752","75","Zafira","1",NULL
+"753","76","Accord","1",NULL
+"754","76","Airwave","1",NULL
+"755","76","Ascot","1",NULL
+"756","76","Avancier","1",NULL
+"757","76","Beat","1",NULL
+"758","76","Capa","1",NULL
+"759","76","City","1",NULL
+"760","76","Civic Ferio","1",NULL
+"761","76","Civic","1",NULL
+"762","76","Concerto","1",NULL
+"763","76","CR-V","1",NULL
+"764","76","CR-X","1",NULL
+"765","76","CR-Z","1",NULL
+"766","76","Crossroad","1",NULL
+"767","76","Crosstour","1",NULL
+"768","76","Domani","1",NULL
+"769","76","Edix","1",NULL
+"770","76","Element","1",NULL
+"771","76","Elysion","1",NULL
+"772","76","FCX Clarity","1",NULL
+"773","76","Fit Aria","1",NULL
+"774","76","Fit","1",NULL
+"775","76","FR-V","1",NULL
+"776","76","Freed","1",NULL
+"777","76","HR-V","1",NULL
+"778","76","Insight","1",NULL
+"779","76","Inspire","1",NULL
+"780","76","Integra","1",NULL
+"781","76","Integra SJ","1",NULL
+"782","76","Jazz","1",NULL
+"783","76","Legend","1",NULL
+"784","76","Life","1",NULL
+"785","76","Logo","1",NULL
+"786","76","MDX","1",NULL
+"787","76","Mobilio","1",NULL
+"788","76","NSX","1",NULL
+"789","76","Odyssey (North America)","1",NULL
+"790","76","Odyssey","1",NULL
+"791","76","Orthia","1",NULL
+"792","76","Partner","1",NULL
+"793","76","Passport","1",NULL
+"794","76","Pilot","1",NULL
+"795","76","Prelude","1",NULL
+"796","76","Quint","1",NULL
+"797","76","Rafaga","1",NULL
+"798","76","Ridgeline","1",NULL
+"799","76","S-MX","1",NULL
+"800","76","S2000","1",NULL
+"801","76","Saber","1",NULL
+"802","76","Shuttle","1",NULL
+"803","76","Stepwgn","1",NULL
+"804","76","Stream","1",NULL
+"805","76","That\"S","1",NULL
+"806","76","Today","1",NULL
+"807","76","Torneo","1",NULL
+"808","76","Vamos","1",NULL
+"809","76","Vigor","1",NULL
+"810","76","Z","1",NULL
+"811","76","Zest","1",NULL
+"812","77","Antelope","1",NULL
+"813","77","Landscape","1",NULL
+"814","77","Plutus","1",NULL
+"815","78","H1","1",NULL
+"816","78","H2","1",NULL
+"817","78","H3","1",NULL
+"818","79","Accent","1",NULL
+"819","79","Atos","1",NULL
+"820","79","Avante","1",NULL
+"821","79","Centennial","1",NULL
+"822","79","Coupe","1",NULL
+"823","79","Dynasty","1",NULL
+"824","79","Elantra","1",NULL
+"825","79","Equus","1",NULL
+"826","79","Excel","1",NULL
+"827","79","Galloper","1",NULL
+"828","79","Genesis","1",NULL
+"829","79","Genesis Coupe","1",NULL
+"830","79","Getz","1",NULL
+"831","79","Grandeur","1",NULL
+"832","79","i10","1",NULL
+"833","79","i20","1",NULL
+"834","79","i30","1",NULL
+"835","79","i40","1",NULL
+"836","79","ix20","1",NULL
+"837","79","ix35","1",NULL
+"838","79","ix55","1",NULL
+"839","79","Lantra","1",NULL
+"840","79","Lavita","1",NULL
+"841","79","Marcia","1",NULL
+"842","79","Matrix","1",NULL
+"843","79","Maxcruz","1",NULL
+"844","79","Pony","1",NULL
+"845","79","Santa Fe","1",NULL
+"846","79","Santamo","1",NULL
+"847","79","Scoupe","1",NULL
+"848","79","Solaris","1",NULL
+"849","79","Sonata","1",NULL
+"850","79","Starex (H-1)","1",NULL
+"851","79","Stellar","1",NULL
+"852","79","Terracan","1",NULL
+"853","79","Tiburon","1",NULL
+"854","79","Trajet","1",NULL
+"855","79","Tucson","1",NULL
+"856","79","Tuscani","1",NULL
+"857","79","Veloster","1",NULL
+"858","79","Veracruz","1",NULL
+"859","79","Verna","1",NULL
+"860","79","XG","1",NULL
+"861","80","EX","1",NULL
+"862","80","FX","1",NULL
+"863","80","G","1",NULL
+"864","80","I","1",NULL
+"865","80","J","1",NULL
+"866","80","JX","1",NULL
+"867","80","M","1",NULL
+"868","80","Q","1",NULL
+"869","80","Q50","1",NULL
+"870","80","Q60","1",NULL
+"871","80","QX","1",NULL
+"872","80","QX50","1",NULL
+"873","80","QX60","1",NULL
+"874","80","QX70","1",NULL
+"875","80","QX80","1",NULL
+"876","81","Elba","1",NULL
+"877","81","Mille","1",NULL
+"878","81","Mini","1",NULL
+"879","82","S1","1",NULL
+"880","83","Paykan","1",NULL
+"881","83","Samand","1",NULL
+"882","83","Soren","1",NULL
+"883","84","Commendatore 112i","1",NULL
+"884","84","Imperator 108i","1",NULL
+"885","84","Spyder","1",NULL
+"886","85","Amigo","1",NULL
+"887","85","Ascender","1",NULL
+"888","85","Aska","1",NULL
+"889","85","Axiom","1",NULL
+"890","85","Bighorn","1",NULL
+"891","85","D-Max","1",NULL
+"892","85","Gemini","1",NULL
+"893","85","Impulse","1",NULL
+"894","85","KB","1",NULL
+"895","85","MU","1",NULL
+"896","85","MU-7","1",NULL
+"897","85","Piazza","1",NULL
+"898","85","Rodeo","1",NULL
+"899","85","Stylus","1",NULL
+"900","85","TF (Pickup)","1",NULL
+"901","85","Trooper","1",NULL
+"902","85","VehiCross","1",NULL
+"903","85","Wizard","1",NULL
+"904","86","Massif","1",NULL
+"905","87","J2 (Yueyue)","1",NULL
+"906","87","J3 (Tongyue,Tojoy)","1",NULL
+"907","87","J5 (Heyue)","1",NULL
+"908","87","J6 (Heyue RS)","1",NULL
+"909","87","J7 (Binyue)","1",NULL
+"910","87","M1 (Refine)","1",NULL
+"911","87","S1 (Rein)","1",NULL
+"912","87","S5 (Eagle)","1",NULL
+"914","88","E-type","1",NULL
+"915","88","F-Type","1",NULL
+"916","88","S-Type","1",NULL
+"917","88","X-Type","1",NULL
+"918","88","XF","1",NULL
+"919","88","XJ","1",NULL
+"920","88","XJ220","1",NULL
+"921","88","XJS","1",NULL
+"922","88","XK","1",NULL
+"923","89","Cherokee","1",NULL
+"924","89","CJ","1",NULL
+"925","89","Commander","1",NULL
+"926","89","Compass","1",NULL
+"927","89","Grand Cherokee","1",NULL
+"928","89","Grand Wagoneer","1",NULL
+"929","89","Liberty (North America)","1",NULL
+"930","89","Liberty (Patriot)","1",NULL
+"931","89","Wrangler","1",NULL
+"932","90","S-V8","1",NULL
+"933","91","Baodian","1",NULL
+"934","92","Avella","1",NULL
+"935","92","Cadenza","1",NULL
+"936","92","Capital","1",NULL
+"937","92","Carens","1",NULL
+"938","92","Carnival","1",NULL
+"939","92","Cee\"d","1",NULL
+"940","92","Cerato","1",NULL
+"941","92","Clarus","1",NULL
+"942","92","Concord","1",NULL
+"943","92","Elan","1",NULL
+"944","92","Enterprise","1",NULL
+"945","92","Joice","1",NULL
+"946","92","Magentis","1",NULL
+"947","92","Mohave (Borrego)","1",NULL
+"948","92","Opirus","1",NULL
+"949","92","Optima","1",NULL
+"950","92","Picanto","1",NULL
+"951","92","Potentia","1",NULL
+"952","92","Pride","1",NULL
+"953","92","Quoris","1",NULL
+"954","92","Ray","1",NULL
+"955","92","Retona","1",NULL
+"956","92","Rio","1",NULL
+"957","92","Sedona","1",NULL
+"958","92","Sephia","1",NULL
+"959","92","Shuma","1",NULL
+"960","92","Sorento","1",NULL
+"961","92","Soul","1",NULL
+"962","92","Spectra","1",NULL
+"963","92","Sportage","1",NULL
+"964","92","Venga","1",NULL
+"965","92","Visto","1",NULL
+"966","92","X-Trek","1",NULL
+"967","93","Agera","1",NULL
+"968","93","CC8S","1",NULL
+"969","93","CCR","1",NULL
+"970","93","CCX","1",NULL
+"971","93","One:1","1",NULL
+"972","94","X-Bow","1",NULL
+"973","95","Aventador","1",NULL
+"974","95","Countach","1",NULL
+"975","95","Diablo","1",NULL
+"976","95","Espada","1",NULL
+"977","95","Gallardo","1",NULL
+"978","95","Huracán","1",NULL
+"979","95","Jalpa","1",NULL
+"980","95","Jarama","1",NULL
+"981","95","LM001","1",NULL
+"982","95","LM002","1",NULL
+"983","95","Murcielago","1",NULL
+"984","95","Reventon","1",NULL
+"985","95","Urraco","1",NULL
+"986","95","Veneno","1",NULL
+"987","96","A 112","1",NULL
+"988","96","Beta","1",NULL
+"989","96","Dedra","1",NULL
+"990","96","Delta","1",NULL
+"991","96","Fulvia","1",NULL
+"992","96","Gamma","1",NULL
+"993","96","Hyena","1",NULL
+"994","96","Kappa","1",NULL
+"995","96","Lybra","1",NULL
+"996","96","Monte Carlo","1",NULL
+"997","96","Musa","1",NULL
+"998","96","Phedra","1",NULL
+"999","96","Prisma","1",NULL
+"1000","96","Thema","1",NULL
+"1001","96","Thesis","1",NULL
+"1002","96","Trevi","1",NULL
+"1003","96","Y10","1",NULL
+"1004","96","Ypsilon","1",NULL
+"1005","96","Zeta","1",NULL
+"1006","97","Defender","1",NULL
+"1007","97","Discovery","1",NULL
+"1008","97","Freelander","1",NULL
+"1009","97","Range Rover Evoque","1",NULL
+"1010","97","Range Rover","1",NULL
+"1011","97","Range Rover Sport","1",NULL
+"1012","97","Series I","1",NULL
+"1013","97","Series II","1",NULL
+"1014","97","Series III","1",NULL
+"1015","98","Fashion (CV9)","1",NULL
+"1016","98","Forward","1",NULL
+"1017","98","X5","1",NULL
+"1018","98","X6","1",NULL
+"1019","99","CT","1",NULL
+"1020","99","ES","1",NULL
+"1021","99","GS","1",NULL
+"1022","99","GX","1",NULL
+"1023","99","HS","1",NULL
+"1024","99","IS","1",NULL
+"1025","99","LFA","1",NULL
+"1026","99","LS","1",NULL
+"1027","99","LX","1",NULL
+"1028","99","RC","1",NULL
+"1029","99","RX","1",NULL
+"1030","99","SC","1",NULL
+"1031","100","Leopard","1",NULL
+"1032","101","Breez (520)","1",NULL
+"1033","101","Cebrium (720)","1",NULL
+"1036","101","X60","1",NULL
+"1037","102","Aviator","1",NULL
+"1038","102","Continental","1",NULL
+"1039","102","LS","1",NULL
+"1040","102","Mark LT","1",NULL
+"1041","102","Mark VII","1",NULL
+"1042","102","Mark VIII","1",NULL
+"1043","102","MKC","1",NULL
+"1044","102","MKS","1",NULL
+"1045","102","MKT","1",NULL
+"1046","102","MKX","1",NULL
+"1047","102","MKZ","1",NULL
+"1048","102","Navigator","1",NULL
+"1049","102","Town Car","1",NULL
+"1050","103","340R","1",NULL
+"1051","103","Eclat","1",NULL
+"1052","103","Elan","1",NULL
+"1053","103","Elise","1",NULL
+"1054","103","Elite","1",NULL
+"1055","103","Esprit","1",NULL
+"1056","103","Europa","1",NULL
+"1057","103","Europa S","1",NULL
+"1058","103","Evora","1",NULL
+"1059","103","Excel","1",NULL
+"1060","103","Exige","1",NULL
+"1061","104","TX","1",NULL
+"1062","105","Luxgen5","1",NULL
+"1063","105","Luxgen7 MPV","1",NULL
+"1064","105","Luxgen7 SUV","1",NULL
+"1065","105","U6 Turbo","1",NULL
+"1066","105","U7 Turbo","1",NULL
+"1067","106","Armada","1",NULL
+"1068","106","Bolero","1",NULL
+"1069","106","CJ-3","1",NULL
+"1070","106","CL","1",NULL
+"1071","106","Commander","1",NULL
+"1072","106","Marshal","1",NULL
+"1073","106","MM","1",NULL
+"1074","106","NC 640 DP","1",NULL
+"1075","106","Scorpio","1",NULL
+"1076","106","Verito","1",NULL
+"1077","106","Voyager","1",NULL
+"1078","106","Xylo","1",NULL
+"1079","107","GTS","1",NULL
+"1080","107","LM 400","1",NULL
+"1081","107","LM 500","1",NULL
+"1082","107","Mantis","1",NULL
+"1083","107","Marcasite","1",NULL
+"1084","108","5EXi","1",NULL
+"1085","108","Sportster","1",NULL
+"1086","109","B1","1",NULL
+"1087","109","B2","1",NULL
+"1088","110","1000","1",NULL
+"1089","110","800","1",NULL
+"1090","110","Alto","1",NULL
+"1091","110","Baleno","1",NULL
+"1092","110","Esteem","1",NULL
+"1093","110","Gypsy","1",NULL
+"1094","110","Omni","1",NULL
+"1095","110","Versa","1",NULL
+"1096","110","Wagon R","1",NULL
+"1097","110","Zen","1",NULL
+"1098","111","228","1",NULL
+"1099","111","3200 GT","1",NULL
+"1100","111","420","1",NULL
+"1101","111","4200 GT","1",NULL
+"1102","111","Barchetta Stradale","1",NULL
+"1103","111","Biturbo","1",NULL
+"1104","111","Bora","1",NULL
+"1105","111","Chubasco","1",NULL
+"1106","111","Ghibli","1",NULL
+"1107","111","GranTurismo","1",NULL
+"1108","111","Indy","1",NULL
+"1109","111","Karif","1",NULL
+"1110","111","Khamsin","1",NULL
+"1111","111","Kyalami","1",NULL
+"1112","111","MC12","1",NULL
+"1113","111","Merak","1",NULL
+"1114","111","Mexico","1",NULL
+"1115","111","Quattroporte","1",NULL
+"1116","111","Royale","1",NULL
+"1117","111","Shamal","1",NULL
+"1118","112","57","1",NULL
+"1119","112","62","1",NULL
+"1120","113","1000","1",NULL
+"1121","113","121","1",NULL
+"1122","113","1300","1",NULL
+"1123","113","2","1",NULL
+"1124","113","3","1",NULL
+"1125","113","323","1",NULL
+"1126","113","5","1",NULL
+"1127","113","6","1",NULL
+"1128","113","616","1",NULL
+"1129","113","626","1",NULL
+"1130","113","818","1",NULL
+"1131","113","929","1",NULL
+"1132","113","Atenza","1",NULL
+"1133","113","Axela","1",NULL
+"1134","113","AZ-1","1",NULL
+"1135","113","AZ-Offroad","1",NULL
+"1136","113","AZ-Wagon","1",NULL
+"1137","113","B-series","1",NULL
+"1138","113","Biante","1",NULL
+"1139","113","Bongo Friendee","1",NULL
+"1140","113","Bongo","1",NULL
+"1141","113","BT-50","1",NULL
+"1142","113","Capella","1",NULL
+"1143","113","Carol","1",NULL
+"1144","113","Cronos","1",NULL
+"1145","113","CX-5","1",NULL
+"1146","113","CX-7","1",NULL
+"1147","113","CX-9","1",NULL
+"1148","113","Demio","1",NULL
+"1149","113","Efini MS-6","1",NULL
+"1150","113","Efini MS-8","1",NULL
+"1151","113","Efini MS-9","1",NULL
+"1152","113","Eunos 300","1",NULL
+"1153","113","Eunos 500","1",NULL
+"1154","113","Eunos 800","1",NULL
+"1155","113","Eunos Cosmo","1",NULL
+"1156","113","Familia","1",NULL
+"1157","113","Lantis","1",NULL
+"1158","113","Laputa","1",NULL
+"1159","113","Luce","1",NULL
+"1160","113","Millenia","1",NULL
+"1161","113","MPV","1",NULL
+"1162","113","MX-3","1",NULL
+"1163","113","MX-5","1",NULL
+"1164","113","MX-6","1",NULL
+"1165","113","Navajo","1",NULL
+"1166","113","Persona","1",NULL
+"1167","113","Premacy","1",NULL
+"1168","113","Proceed Levante","1",NULL
+"1169","113","Proceed Marvie","1",NULL
+"1170","113","Protege","1",NULL
+"1171","113","Revue","1",NULL
+"1172","113","Roadster","1",NULL
+"1173","113","RX-7","1",NULL
+"1174","113","RX-8","1",NULL
+"1175","113","Scrum","1",NULL
+"1176","113","Sentia","1",NULL
+"1177","113","Spiano","1",NULL
+"1178","113","Tribute","1",NULL
+"1179","113","Verisa","1",NULL
+"1180","114","F1","1",NULL
+"1181","114","MP4-12C","1",NULL
+"1182","114","P1","1",NULL
+"1183","115","Club","1",NULL
+"1184","115","Monte Carlo","1",NULL
+"1185","115","Track","1",NULL
+"1186","116","190 (W201)","1",NULL
+"1187","116","A-klasse","1",NULL
+"1188","116","B-klasse","1",NULL
+"1189","116","C-klasse","1",NULL
+"1190","116","Citan","1",NULL
+"1191","116","CL-klasse","1",NULL
+"1192","116","CLA-klasse","1",NULL
+"1193","116","CLC-klasse","1",NULL
+"1194","116","CLK-klasse","1",NULL
+"1195","116","CLS-klasse","1",NULL
+"1196","116","E-klasse","1",NULL
+"1197","116","G-klasse","1",NULL
+"1198","116","GL-klasse","1",NULL
+"1199","116","GLA-klasse","1",NULL
+"1200","116","GLK-klasse","1",NULL
+"1201","116","M-klasse","1",NULL
+"1202","116","R-klasse","1",NULL
+"1203","116","S-klasse","1",NULL
+"1204","116","SL-klasse","1",NULL
+"1205","116","SLK-klasse","1",NULL
+"1206","116","SLR McLaren","1",NULL
+"1207","116","SLS AMG","1",NULL
+"1209","116","Vaneo","1",NULL
+"1210","116","Viano","1",NULL
+"1211","116","W114","1",NULL
+"1212","116","W115","1",NULL
+"1213","116","W123","1",NULL
+"1214","116","W124","1",NULL
+"1215","117","Capri","1",NULL
+"1216","117","Cougar","1",NULL
+"1217","117","Grand Marquis","1",NULL
+"1218","117","Marauder","1",NULL
+"1219","117","Mariner","1",NULL
+"1220","117","Marquis","1",NULL
+"1221","117","Milan","1",NULL
+"1222","117","Montego","1",NULL
+"1223","117","Monterey","1",NULL
+"1224","117","Mountaineer","1",NULL
+"1225","117","Mystique","1",NULL
+"1226","117","Sable","1",NULL
+"1227","117","Topaz","1",NULL
+"1228","117","Tracer","1",NULL
+"1229","117","Villager","1",NULL
+"1230","118","Metrocab I","1",NULL
+"1231","118","Metrocab II (TTT)","1",NULL
+"1232","119","3","1",NULL
+"1233","119","350","1",NULL
+"1234","119","5","1",NULL
+"1236","119","6","1",NULL
+"1237","119","F","1",NULL
+"1238","119","Maestro","1",NULL
+"1239","119","Metro","1",NULL
+"1240","119","MGB","1",NULL
+"1241","119","Midget","1",NULL
+"1242","119","Montego","1",NULL
+"1243","119","RV8","1",NULL
+"1244","119","TF","1",NULL
+"1245","119","Xpower SV","1",NULL
+"1246","119","ZR","1",NULL
+"1247","119","ZS","1",NULL
+"1248","119","ZT","1",NULL
+"1249","120","F8C","1",NULL
+"1250","120","M.Go","1",NULL
+"1251","120","M8","1",NULL
+"1252","120","MC","1",NULL
+"1253","120","Virgo","1",NULL
+"1254","121","TF 1800","1",NULL
+"1255","122","Cabrio","1",NULL
+"1256","122","Clubman","1",NULL
+"1258","122","Countryman","1",NULL
+"1259","122","Coupe","1",NULL
+"1260","122","Hatch","1",NULL
+"1261","122","Paceman","1",NULL
+"1262","122","Roadster","1",NULL
+"1263","123","3000 GT","1",NULL
+"1264","123","Airtrek","1",NULL
+"1265","123","Aspire","1",NULL
+"1266","123","ASX","1",NULL
+"1267","123","Carisma","1",NULL
+"1268","123","Celeste","1",NULL
+"1269","123","Challenger","1",NULL
+"1270","123","Chariot","1",NULL
+"1271","123","Colt","1",NULL
+"1272","123","Cordia","1",NULL
+"1273","123","Debonair","1",NULL
+"1274","123","Delica","1",NULL
+"1275","123","Diamante","1",NULL
+"1276","123","Dingo","1",NULL
+"1277","123","Dion","1",NULL
+"1278","123","Eclipse","1",NULL
+"1279","123","eK","1",NULL
+"1280","123","Emeraude","1",NULL
+"1281","123","Endeavor","1",NULL
+"1282","123","Eterna","1",NULL
+"1283","123","FTO","1",NULL
+"1284","123","Galant","1",NULL
+"1285","123","Grandis","1",NULL
+"1286","123","GTO","1",NULL
+"1287","123","i","1",NULL
+"1288","123","i-MiEV","1",NULL
+"1290","123","L200","1",NULL
+"1291","123","Lancer Cargo","1",NULL
+"1292","123","Lancer Evolution","1",NULL
+"1293","123","Lancer","1",NULL
+"1294","123","Legnum","1",NULL
+"1295","123","Libero","1",NULL
+"1296","123","Minica","1",NULL
+"1297","123","Mirage","1",NULL
+"1298","123","Montero","1",NULL
+"1299","123","Montero Sport","1",NULL
+"1300","123","Outlander","1",NULL
+"1301","123","Pajero","1",NULL
+"1302","123","Pajero iO","1",NULL
+"1303","123","Pajero Junior","1",NULL
+"1304","123","Pajero Mini","1",NULL
+"1305","123","Pajero Pinin","1",NULL
+"1306","123","Pajero Sport","1",NULL
+"1307","123","Pistachio","1",NULL
+"1308","123","Proudia","1",NULL
+"1309","123","Raider","1",NULL
+"1310","123","RVR","1",NULL
+"1311","123","Sapporo","1",NULL
+"1312","123","Sigma","1",NULL
+"1313","123","Space Gear","1",NULL
+"1314","123","Space Runner","1",NULL
+"1315","123","Space Star","1",NULL
+"1316","123","Space Wagon","1",NULL
+"1317","123","Starion","1",NULL
+"1318","123","Toppo","1",NULL
+"1319","123","Town Box","1",NULL
+"1320","123","Tredia","1",NULL
+"1321","124","Galue 204","1",NULL
+"1322","124","Galue","1",NULL
+"1323","124","Himiko","1",NULL
+"1324","124","Le-Seyde","1",NULL
+"1325","124","Like","1",NULL
+"1328","124","Nouera","1",NULL
+"1329","124","Orochi","1",NULL
+"1330","124","Ray","1",NULL
+"1331","124","Ryoga","1",NULL
+"1332","124","Viewt","1",NULL
+"1333","124","Yuga","1",NULL
+"1334","124","Zero 1","1",NULL
+"1335","125","3 Wheeler","1",NULL
+"1336","125","4 Seater","1",NULL
+"1337","125","4/4","1",NULL
+"1338","125","Aero 8","1",NULL
+"1339","125","Aero Coupe","1",NULL
+"1340","125","Aero SuperSports","1",NULL
+"1341","125","AeroMax","1",NULL
+"1342","125","Plus 4","1",NULL
+"1343","125","Plus 8","1",NULL
+"1344","125","Roadster","1",NULL
+"1345","126","Marina","1",NULL
+"1346","127","100NX","1",NULL
+"1347","127","180SX","1",NULL
+"1348","127","200SX","1",NULL
+"1349","127","240SX","1",NULL
+"1350","127","280ZX","1",NULL
+"1351","127","300ZX","1",NULL
+"1352","127","350Z","1",NULL
+"1353","127","370Z","1",NULL
+"1354","127","AD","1",NULL
+"1355","127","Almera Classic","1",NULL
+"1356","127","Almera","1",NULL
+"1357","127","Almera Tino","1",NULL
+"1358","127","Altima","1",NULL
+"1359","127","Armada","1",NULL
+"1360","127","Avenir","1",NULL
+"1361","127","Bassara","1",NULL
+"1362","127","BE-1","1",NULL
+"1363","127","Bluebird Sylphy","1",NULL
+"1364","127","Bluebird","1",NULL
+"1365","127","Cedric","1",NULL
+"1366","127","Cefiro","1",NULL
+"1367","127","Cherry","1",NULL
+"1368","127","Cima","1",NULL
+"1369","127","Clipper","1",NULL
+"1370","127","Crew","1",NULL
+"1371","127","Cube","1",NULL
+"1372","127","Datsun","1",NULL
+"1373","127","Dualis","1",NULL
+"1374","127","Elgrand","1",NULL
+"1375","127","Expert","1",NULL
+"1376","127","Fairlady Z","1",NULL
+"1377","127","Figaro","1",NULL
+"1378","127","Fuga","1",NULL
+"1379","127","Gloria","1",NULL
+"1380","127","GT-R","1",NULL
+"1381","127","Juke","1",NULL
+"1382","127","Lafesta","1",NULL
+"1383","127","Langley","1",NULL
+"1384","127","Largo","1",NULL
+"1385","127","Laurel","1",NULL
+"1386","127","Leaf","1",NULL
+"1387","127","Leopard","1",NULL
+"1388","127","Liberty","1",NULL
+"1389","127","Lucino","1",NULL
+"1390","127","March","1",NULL
+"1391","127","Maxima","1",NULL
+"1392","127","Micra","1",NULL
+"1393","127","Mistral","1",NULL
+"1394","127","Moco","1",NULL
+"1395","127","Murano","1",NULL
+"1396","127","Navara (Frontier)","1",NULL
+"1397","127","Note","1",NULL
+"1398","127","NP 300","1",NULL
+"1399","127","NV200","1",NULL
+"1400","127","NX Coupe","1",NULL
+"1401","127","Otti (Dayz)","1",NULL
+"1402","127","Pao","1",NULL
+"1403","127","Pathfinder","1",NULL
+"1404","127","Patrol","1",NULL
+"1405","127","Pino","1",NULL
+"1406","128","M12 GTO","1",NULL
+"1407","128","M600","1",NULL
+"1408","129","Achieva","1",NULL
+"1409","129","Alero","1",NULL
+"1410","129","Aurora","1",NULL
+"1411","129","Bravada","1",NULL
+"1412","129","Cutlass","1",NULL
+"1413","129","Cutlass Calais","1",NULL
+"1414","129","Cutlass Ciera","1",NULL
+"1415","129","Cutlass Supreme","1",NULL
+"1416","129","Eighty-Eight","1",NULL
+"1417","129","Intrigue","1",NULL
+"1418","129","Ninety-Eight","1",NULL
+"1419","129","Omega","1",NULL
+"1420","129","Silhouette","1",NULL
+"1421","130","Adam","1",NULL
+"1422","130","Admiral","1",NULL
+"1423","130","Agila","1",NULL
+"1424","130","Ampera","1",NULL
+"1425","130","Antara","1",NULL
+"1426","130","Ascona","1",NULL
+"1427","130","Astra","1",NULL
+"1428","130","Calibra","1",NULL
+"1429","130","Campo","1",NULL
+"1430","130","Cascada","1",NULL
+"1431","130","Combo","1",NULL
+"1432","130","Commodore","1",NULL
+"1433","130","Corsa","1",NULL
+"1434","130","Diplomat","1",NULL
+"1435","130","Frontera","1",NULL
+"1436","130","GT","1",NULL
+"1437","130","Insignia","1",NULL
+"1438","130","Kadett","1",NULL
+"1439","130","Manta","1",NULL
+"1440","130","Meriva","1",NULL
+"1441","130","Mokka","1",NULL
+"1442","130","Monterey","1",NULL
+"1443","130","Monza","1",NULL
+"1444","130","Omega","1",NULL
+"1445","130","Rekord","1",NULL
+"1446","130","Senator","1",NULL
+"1447","130","Signum","1",NULL
+"1448","130","Sintra","1",NULL
+"1449","130","Speedster","1",NULL
+"1450","130","Tigra","1",NULL
+"1451","130","Vectra","1",NULL
+"1452","130","Vita","1",NULL
+"1453","130","Zafira","1",NULL
+"1454","131","2500 GT","1",NULL
+"1455","132","Huayra","1",NULL
+"1456","132","Zonda","1",NULL
+"1457","133","Esperante","1",NULL
+"1458","133","Roadster","1",NULL
+"1459","134","Alza","1",NULL
+"1460","134","Kancil","1",NULL
+"1461","134","Kelisa","1",NULL
+"1462","134","Kembara","1",NULL
+"1463","134","Kenari","1",NULL
+"1464","134","MyVi","1",NULL
+"1465","134","Nautica","1",NULL
+"1466","134","Viva","1",NULL
+"1467","135","1007","1",NULL
+"1468","135","104","1",NULL
+"1469","135","106","1",NULL
+"1470","135","107","1",NULL
+"1471","135","2008","1",NULL
+"1472","135","204","1",NULL
+"1473","135","205","1",NULL
+"1474","135","206","1",NULL
+"1475","135","207","1",NULL
+"1476","135","208","1",NULL
+"1477","135","3008","1",NULL
+"1478","135","301","1",NULL
+"1479","135","304","1",NULL
+"1480","135","305","1",NULL
+"1481","135","306","1",NULL
+"1482","135","307","1",NULL
+"1483","135","308","1",NULL
+"1484","135","309","1",NULL
+"1485","135","4007","1",NULL
+"1486","135","4008","1",NULL
+"1487","135","405","1",NULL
+"1488","135","406","1",NULL
+"1489","135","407","1",NULL
+"1490","135","408","1",NULL
+"1491","135","5008","1",NULL
+"1492","135","504","1",NULL
+"1493","135","505","1",NULL
+"1494","135","508","1",NULL
+"1495","135","604","1",NULL
+"1496","135","605","1",NULL
+"1497","135","607","1",NULL
+"1498","135","806","1",NULL
+"1499","135","807","1",NULL
+"1501","135","Partner","1",NULL
+"1502","135","RCZ","1",NULL
+"1503","136","Porter","1",NULL
+"1504","137","Acclaim","1",NULL
+"1505","137","Breeze","1",NULL
+"1506","137","Caravelle","1",NULL
+"1507","137","Laser","1",NULL
+"1508","137","Neon","1",NULL
+"1509","137","Prowler","1",NULL
+"1510","137","Sundance","1",NULL
+"1511","137","Turismo","1",NULL
+"1512","137","Voyager","1",NULL
+"1513","138","6000","1",NULL
+"1514","138","Aztec","1",NULL
+"1515","138","Bonneville","1",NULL
+"1516","138","Fiero","1",NULL
+"1517","138","Firebird","1",NULL
+"1518","138","G4","1",NULL
+"1519","138","G5","1",NULL
+"1520","138","G6","1",NULL
+"1522","138","Grand AM","1",NULL
+"1523","138","Grand Prix","1",NULL
+"1524","138","GTO","1",NULL
+"1525","138","LeMans","1",NULL
+"1526","138","Montana","1",NULL
+"1527","138","Parisienne","1",NULL
+"1528","138","Phoenix","1",NULL
+"1529","138","Solstice","1",NULL
+"1530","138","Sunbird","1",NULL
+"1531","138","Sunfire","1",NULL
+"1532","138","Tempest","1",NULL
+"1533","138","Torrent","1",NULL
+"1534","138","Trans Sport","1",NULL
+"1535","138","Vibe","1",NULL
+"1536","139","911","1",NULL
+"1537","139","914","1",NULL
+"1539","139","924","1",NULL
+"1540","139","928","1",NULL
+"1541","139","944","1",NULL
+"1542","139","959","1",NULL
+"1543","139","968","1",NULL
+"1544","139","Boxster","1",NULL
+"1545","139","Carrera GT","1",NULL
+"1546","139","Cayenne","1",NULL
+"1547","139","Cayman","1",NULL
+"1548","139","Macan","1",NULL
+"1549","139","Panamera","1",NULL
+"1550","140","118NE","1",NULL
+"1551","140","Padmini","1",NULL
+"1552","141","Exora","1",NULL
+"1553","141","Gen-2","1",NULL
+"1554","141","Inspira","1",NULL
+"1555","141","Juara","1",NULL
+"1556","141","Perdana","1",NULL
+"1557","141","Persona","1",NULL
+"1558","141","Preve","1",NULL
+"1559","141","Saga","1",NULL
+"1560","141","Satria","1",NULL
+"1561","141","Waja","1",NULL
+"1562","141","Wira (400 Series)","1",NULL
+"1563","142","G-modell","1",NULL
+"1564","142","Pinzgauer","1",NULL
+"1565","143","GTB","1",NULL
+"1566","143","GTE","1",NULL
+"1567","144","3","1",NULL
+"1568","145","Mangusta","1",NULL
+"1569","146","Scimitar Sabre","1",NULL
+"1570","147","11","1",NULL
+"1571","147","12","1",NULL
+"1572","147","14","1",NULL
+"1573","147","15","1",NULL
+"1574","147","16","1",NULL
+"1575","147","17","1",NULL
+"1576","147","18","1",NULL
+"1577","147","19","1",NULL
+"1578","147","20","1",NULL
+"1579","147","21","1",NULL
+"1580","147","25","1",NULL
+"1581","147","30","1",NULL
+"1582","147","4","1",NULL
+"1583","147","5","1",NULL
+"1584","147","6","1",NULL
+"1585","147","9","1",NULL
+"1586","147","Avantime","1",NULL
+"1587","147","Captur","1",NULL
+"1588","147","Clio","1",NULL
+"1589","147","Duster","1",NULL
+"1590","147","Espace","1",NULL
+"1592","147","Fluence","1",NULL
+"1593","147","Fuego","1",NULL
+"1594","147","Kangoo","1",NULL
+"1595","147","Koleos","1",NULL
+"1596","147","Laguna","1",NULL
+"1597","147","Latitude","1",NULL
+"1598","147","Logan","1",NULL
+"1599","147","Megane","1",NULL
+"1600","147","Modus","1",NULL
+"1601","147","Rodeo","1",NULL
+"1602","147","Safrane","1",NULL
+"1603","147","Sandero","1",NULL
+"1604","147","Scenic","1",NULL
+"1605","147","Sport Spider","1",NULL
+"1606","147","Symbol","1",NULL
+"1607","147","Twingo","1",NULL
+"1608","147","Twizy","1",NULL
+"1609","147","Vel Satis","1",NULL
+"1610","147","Wind","1",NULL
+"1611","147","ZOE","1",NULL
+"1612","148","SM3","1",NULL
+"1613","148","SM5","1",NULL
+"1614","148","SM7","1",NULL
+"1615","149","Corniche","1",NULL
+"1616","149","Ghost","1",NULL
+"1617","149","Park Ward","1",NULL
+"1618","149","Phantom","1",NULL
+"1619","149","Silver Seraph","1",NULL
+"1620","149","Silver Spur","1",NULL
+"1621","149","Wraith","1",NULL
+"1622","150","Lightning","1",NULL
+"1623","151","100","1",NULL
+"1624","151","200","1",NULL
+"1625","151","25","1",NULL
+"1626","151","400","1",NULL
+"1627","151","45","1",NULL
+"1628","151","600","1",NULL
+"1629","151","75","1",NULL
+"1630","151","800","1",NULL
+"1631","151","Metro","1",NULL
+"1632","151","Mini","1",NULL
+"1633","151","P6","1",NULL
+"1634","151","SD1","1",NULL
+"1635","152","9-2X","1",NULL
+"1636","152","9-3","1",NULL
+"1637","152","9-4X","1",NULL
+"1638","152","9-5","1",NULL
+"1639","152","9-7X","1",NULL
+"1640","152","90","1",NULL
+"1641","152","900","1",NULL
+"1642","152","9000","1",NULL
+"1643","152","95","1",NULL
+"1644","152","96","1",NULL
+"1645","152","99","1",NULL
+"1646","153","S7","1",NULL
+"1647","154","PS-10","1",NULL
+"1648","155","Astra","1",NULL
+"1649","155","Aura","1",NULL
+"1650","155","ION","1",NULL
+"1651","155","LS","1",NULL
+"1652","155","LW","1",NULL
+"1653","155","Outlook","1",NULL
+"1654","155","Relay","1",NULL
+"1655","155","SC","1",NULL
+"1656","155","Sky","1",NULL
+"1657","155","SL","1",NULL
+"1658","155","SW","1",NULL
+"1659","155","VUE","1",NULL
+"1660","156","FR-S","1",NULL
+"1661","156","iQ","1",NULL
+"1662","156","tC","1",NULL
+"1663","156","xA","1",NULL
+"1664","156","xB","1",NULL
+"1665","156","xD","1",NULL
+"1666","157","133","1",NULL
+"1667","157","Alhambra","1",NULL
+"1668","157","Altea","1",NULL
+"1669","157","Arosa","1",NULL
+"1670","157","Cordoba","1",NULL
+"1671","157","Exeo","1",NULL
+"1672","157","Fura","1",NULL
+"1673","157","Ibiza","1",NULL
+"1674","157","Leon","1",NULL
+"1675","157","Malaga","1",NULL
+"1676","157","Marbella","1",NULL
+"1677","157","Ronda","1",NULL
+"1678","157","Toledo","1",NULL
+"1679","158","Noble","1",NULL
+"1680","158","Sceo","1",NULL
+"1681","159","100 Series","1",NULL
+"1682","159","Citigo","1",NULL
+"1683","159","Fabia","1",NULL
+"1684","159","Favorit","1",NULL
+"1685","159","Felicia","1",NULL
+"1686","159","Octavia","1",NULL
+"1687","159","Rapid","1",NULL
+"1688","159","Roomster","1",NULL
+"1689","159","Superb","1",NULL
+"1690","159","Yeti","1",NULL
+"1691","160","Forfour","1",NULL
+"1692","160","Fortwo","1",NULL
+"1693","160","Roadster","1",NULL
+"1694","161","Lioncel","1",NULL
+"1695","162","R42","1",NULL
+"1696","163","C12","1",NULL
+"1697","163","C8","1",NULL
+"1699","165","Actyon","1",NULL
+"1700","165","Actyon Sports","1",NULL
+"1701","165","Chairman","1",NULL
+"1702","165","Kallista","1",NULL
+"1703","165","Korando Family","1",NULL
+"1704","165","Korando","1",NULL
+"1705","165","Kyron","1",NULL
+"1706","165","Musso","1",NULL
+"1707","165","Rexton","1",NULL
+"1708","165","Rodius","1",NULL
+"1709","165","Stavic","1",NULL
+"1710","166","Alcyone","1",NULL
+"1711","166","Baja","1",NULL
+"1712","166","BRZ","1",NULL
+"1713","166","Dex","1",NULL
+"1714","166","Domingo","1",NULL
+"1715","166","Exiga","1",NULL
+"1716","166","Forester","1",NULL
+"1717","166","Impreza","1",NULL
+"1718","166","Justy","1",NULL
+"1719","166","Legacy","1",NULL
+"1720","166","Leone","1",NULL
+"1721","166","Libero","1",NULL
+"1722","166","Lucra","1",NULL
+"1723","166","Outback","1",NULL
+"1724","166","Pleo","1",NULL
+"1725","166","R1","1",NULL
+"1726","166","R2","1",NULL
+"1727","166","Sambar","1",NULL
+"1728","166","Stella","1",NULL
+"1729","166","SVX","1",NULL
+"1730","166","Traviq","1",NULL
+"1731","166","Trezia","1",NULL
+"1732","166","Tribeca","1",NULL
+"1733","166","Vivio","1",NULL
+"1734","166","XT","1",NULL
+"1735","166","XV","1",NULL
+"1736","167","Aerio","1",NULL
+"1737","167","Alto","1",NULL
+"1738","167","Baleno","1",NULL
+"1739","167","Cappuccino","1",NULL
+"1740","167","Cervo","1",NULL
+"1741","167","Ertiga","1",NULL
+"1742","167","Escudo","1",NULL
+"1743","167","Every","1",NULL
+"1744","167","Forenza","1",NULL
+"1745","167","Grand Vitara","1",NULL
+"1746","167","Ignis","1",NULL
+"1747","167","Jimny","1",NULL
+"1748","167","Kei","1",NULL
+"1749","167","Kizashi","1",NULL
+"1750","167","Landy","1",NULL
+"1751","167","Liana","1",NULL
+"1752","167","MR Wagon","1",NULL
+"1753","167","Palette","1",NULL
+"1754","167","Reno","1",NULL
+"1755","167","Solio","1",NULL
+"1756","167","Spacia","1",NULL
+"1757","167","Splash","1",NULL
+"1758","167","Swift","1",NULL
+"1759","167","SX4","1",NULL
+"1760","167","Verona","1",NULL
+"1761","167","Wagon R","1",NULL
+"1762","167","Wagon R+","1",NULL
+"1763","167","X-90","1",NULL
+"1764","167","XL7","1",NULL
+"1765","168","1510","1",NULL
+"1766","168","Avenger","1",NULL
+"1767","168","Horizon","1",NULL
+"1768","168","Samba","1",NULL
+"1769","168","Solara","1",NULL
+"1770","168","Tagora","1",NULL
+"1771","169","Aria","1",NULL
+"1772","169","Estate","1",NULL
+"1773","169","Indica","1",NULL
+"1774","169","Indigo","1",NULL
+"1775","169","Nano","1",NULL
+"1776","169","Safari","1",NULL
+"1777","169","Sierra","1",NULL
+"1778","169","Sumo","1",NULL
+"1779","170","T613","1",NULL
+"1780","170","T700","1",NULL
+"1781","171","Zero","1",NULL
+"1782","172","Model S","1",NULL
+"1783","172","Roadster","1",NULL
+"1784","173","Century","1",NULL
+"1785","174","Admiral","1",NULL
+"1786","175","Dogan","1",NULL
+"1787","175","Kartal","1",NULL
+"1788","175","Murat 131","1",NULL
+"1790","175","Serce","1",NULL
+"1791","176","4Runner","1",NULL
+"1792","176","Allex","1",NULL
+"1793","176","Allion","1",NULL
+"1794","176","Alphard","1",NULL
+"1795","176","Altezza","1",NULL
+"1796","176","Aristo","1",NULL
+"1797","176","Aurion","1",NULL
+"1798","176","Auris","1",NULL
+"1799","176","Avalon","1",NULL
+"1800","176","Avensis","1",NULL
+"1801","176","Avensis Verso","1",NULL
+"1802","176","Aygo","1",NULL
+"1803","176","bB","1",NULL
+"1804","176","Belta","1",NULL
+"1805","176","Blade","1",NULL
+"1806","176","Blizzard","1",NULL
+"1807","176","Brevis","1",NULL
+"1808","176","Caldina","1",NULL
+"1809","176","Cami","1",NULL
+"1810","176","Camry","1",NULL
+"1811","176","Carina ED","1",NULL
+"1812","176","Carina","1",NULL
+"1813","176","Cavalier","1",NULL
+"1814","176","Celica","1",NULL
+"1815","176","Celsior","1",NULL
+"1816","176","Century","1",NULL
+"1817","176","Chaser","1",NULL
+"1818","176","Corolla","1",NULL
+"1819","176","Corolla Rumion","1",NULL
+"1821","176","Corona","1",NULL
+"1822","176","Corsa","1",NULL
+"1823","176","Cressida","1",NULL
+"1824","176","Cresta","1",NULL
+"1825","176","Crown Majesta","1",NULL
+"1826","176","Crown","1",NULL
+"1827","176","Curren","1",NULL
+"1828","176","Cynos","1",NULL
+"1829","176","Duet","1",NULL
+"1830","176","Echo","1",NULL
+"1831","176","Estima","1",NULL
+"1832","176","FJ Cruiser","1",NULL
+"1833","176","Fortuner","1",NULL
+"1834","176","FunCargo","1",NULL
+"1835","176","Gaia","1",NULL
+"1836","176","Granvia","1",NULL
+"1838","176","Harrier","1",NULL
+"1839","176","HiAce","1",NULL
+"1840","176","Highlander","1",NULL
+"1841","176","Hilux Surf","1",NULL
+"1842","176","Hilux","1",NULL
+"1843","176","Innova","1",NULL
+"1844","176","Ipsum","1",NULL
+"1845","176","iQ","1",NULL
+"1846","176","ISis","1",NULL
+"1847","176","Ist","1",NULL
+"1848","176","Kluger","1",NULL
+"1849","176","Land Cruiser","1",NULL
+"1850","176","Land Cruiser Prado","1",NULL
+"1851","177","1.1","1",NULL
+"1852","177","P 601","1",NULL
+"1853","178","Tramontana","1",NULL
+"1854","179","TR7","1",NULL
+"1855","179","TR8","1",NULL
+"1856","180","280","1",NULL
+"1857","180","350","1",NULL
+"1858","180","390","1",NULL
+"1859","180","400","1",NULL
+"1860","180","420","1",NULL
+"1861","180","450","1",NULL
+"1862","180","Cerbera","1",NULL
+"1863","180","Chimaera","1",NULL
+"1864","180","Griffith","1",NULL
+"1865","180","S-Series","1",NULL
+"1866","180","Sagaris","1",NULL
+"1867","180","Tamora","1",NULL
+"1868","180","Tuscan","1",NULL
+"1869","181","Adam","1",NULL
+"1871","181","Astra","1",NULL
+"1873","181","Carlton","1",NULL
+"1882","181","Royale","1",NULL
+"1886","181","Vectra","1",NULL
+"1887","181","Ventora","1",NULL
+"1888","181","Viceroy","1",NULL
+"1889","181","Victor","1",NULL
+"1890","181","Viva","1",NULL
+"1891","181","VXR8","1",NULL
+"1893","182","M12","1",NULL
+"1894","182","W8 Twin Turbo","1",NULL
+"1895","183","210","1",NULL
+"1896","183","260 LM","1",NULL
+"1897","183","300 Atlantique","1",NULL
+"1898","183","400 GT","1",NULL
+"1899","184","181","1",NULL
+"1900","184","Beetle","1",NULL
+"1901","184","Bora","1",NULL
+"1902","184","Caddy","1",NULL
+"1903","184","Corrado","1",NULL
+"1904","184","Derby","1",NULL
+"1905","184","Eos","1",NULL
+"1906","184","Fox","1",NULL
+"1907","184","Golf Country","1",NULL
+"1908","184","Golf","1",NULL
+"1909","184","Golf Plus","1",NULL
+"1910","184","Golf Sportsvan","1",NULL
+"1911","184","Iltis","1",NULL
+"1912","184","Jetta","1",NULL
+"1914","184","Lupo","1",NULL
+"1915","184","Multivan","1",NULL
+"1916","184","Passat (North America)","1",NULL
+"1917","184","Passat","1",NULL
+"1918","184","Passat CC","1",NULL
+"1919","184","Phaeton","1",NULL
+"1920","184","Pointer","1",NULL
+"1921","184","Polo","1",NULL
+"1922","184","Routan","1",NULL
+"1923","184","Santana","1",NULL
+"1924","184","Scirocco","1",NULL
+"1925","184","Sharan","1",NULL
+"1926","184","Taro","1",NULL
+"1927","184","Tiguan","1",NULL
+"1928","184","Touareg","1",NULL
+"1929","184","Touran","1",NULL
+"1930","184","Type 4","1",NULL
+"1931","184","up!","1",NULL
+"1932","184","Vento","1",NULL
+"1933","184","XL1","1",NULL
+"1934","185","140 Series","1",NULL
+"1935","185","164","1",NULL
+"1936","185","240 Series","1",NULL
+"1937","185","260 Series","1",NULL
+"1938","185","300 Series","1",NULL
+"1939","185","440","1",NULL
+"1940","185","460","1",NULL
+"1941","185","480","1",NULL
+"1942","185","66","1",NULL
+"1943","185","740","1",NULL
+"1944","185","760","1",NULL
+"1945","185","780","1",NULL
+"1946","185","850","1",NULL
+"1947","185","940","1",NULL
+"1948","185","960","1",NULL
+"1949","185","C30","1",NULL
+"1950","185","C70","1",NULL
+"1951","185","Laplander","1",NULL
+"1952","185","S40","1",NULL
+"1953","185","S60","1",NULL
+"1954","185","S70","1",NULL
+"1955","185","S80","1",NULL
+"1956","185","S90","1",NULL
+"1957","185","V40","1",NULL
+"1958","185","V50","1",NULL
+"1959","185","V60","1",NULL
+"1960","185","V70","1",NULL
+"1961","185","V90","1",NULL
+"1962","185","XC60","1",NULL
+"1963","185","XC70","1",NULL
+"1964","185","XC90","1",NULL
+"1965","186","Corda","1",NULL
+"1966","186","Estina","1",NULL
+"1967","186","Tingo","1",NULL
+"1968","187","1.3","1",NULL
+"1969","187","353","1",NULL
+"1970","188","SEi & Sport","1",NULL
+"1971","188","SEiGHT","1",NULL
+"1972","189","GT","1",NULL
+"1973","189","Roadster","1",NULL
+"1974","190","Pickup X3","1",NULL
+"1975","190","SR-V X3","1",NULL
+"1976","190","SUV X3","1",NULL
+"1977","191","10","1",NULL
+"1978","191","Florida","1",NULL
+"1979","191","Skala","1",NULL
+"1980","191","Yugo","1",NULL
+"1981","192","Nomad (RX6400)","1",NULL
+"1982","193","Admiral","1",NULL
+"1984","193","Landmark","1",NULL
+"1986","212","2160","1",NULL
+"1987","212","2163","1",NULL
+"1988","212","3101","1",NULL
+"1989","213","Ока-Астро 11301","1",NULL
+"1990","214","Рысь","1",NULL
+"1991","215","1111 Ока","1",NULL
+"1992","215","2101","1",NULL
+"1993","215","2102","1",NULL
+"1994","215","2103","1",NULL
+"1995","215","2104","1",NULL
+"1996","215","2105","1",NULL
+"1997","215","2106","1",NULL
+"1998","215","2107","1",NULL
+"1999","215","2108","1",NULL
+"2000","215","2109","1",NULL
+"2001","215","21099","1",NULL
+"2002","215","2110","1",NULL
+"2003","215","2111","1",NULL
+"2004","215","2112","1",NULL
+"2005","215","2113","1",NULL
+"2006","215","2114","1",NULL
+"2007","215","2115","1",NULL
+"2008","215","2120 Надежда","1",NULL
+"2009","215","2121 (4x4)","1",NULL
+"2010","215","2123","1",NULL
+"2011","215","2129","1",NULL
+"2012","215","2131 (4x4)","1",NULL
+"2013","215","2328","1",NULL
+"2014","215","2329","1",NULL
+"2015","215","Granta","1",NULL
+"2016","215","Kalina","1",NULL
+"2017","215","Largus","1",NULL
+"2018","215","Priora","1",NULL
+"2019","215","Revolution","1",NULL
+"2020","216","13 «Чайка»","1",NULL
+"2021","216","14 «Чайка»","1",NULL
+"2022","216","21 «Волга»","1",NULL
+"2023","216","22 «Волга»","1",NULL
+"2024","216","2308 «Атаман»","1",NULL
+"2025","216","2330 «Тигр»","1",NULL
+"2026","216","24 «Волга»","1",NULL
+"2027","216","3102 «Волга»","1",NULL
+"2028","216","31029 «Волга»","1",NULL
+"2029","216","3103 «Волга»","1",NULL
+"2030","216","3105 «Волга»","1",NULL
+"2031","216","3110 «Волга»","1",NULL
+"2032","216","31105 «Волга»","1",NULL
+"2033","216","3111 «Волга»","1",NULL
+"2034","216","69","1",NULL
+"2035","216","Volga Siber","1",NULL
+"2036","216","М-20 «Победа»","1",NULL
+"2037","216","М1","1",NULL
+"2038","217","1102 «Таврия»","1",NULL
+"2039","217","1103 «Славута»","1",NULL
+"2040","217","1105 «Дана»","1",NULL
+"2041","217","965","1",NULL
+"2042","217","966","1",NULL
+"2043","217","968","1",NULL
+"2044","217","Chance","1",NULL
+"2045","217","Forza","1",NULL
+"2046","217","Sens","1",NULL
+"2047","217","Vida","1",NULL
+"2048","218","114","1",NULL
+"2049","218","117","1",NULL
+"2050","218","4104","1",NULL
+"2051","219","2125 «Комби»","1",NULL
+"2052","219","2126 «Ода»","1",NULL
+"2053","219","21261 «Фабула»","1",NULL
+"2054","219","2717","1",NULL
+"2055","219","Москвич-412","1",NULL
+"2056","220","1111 Ока","1",NULL
+"2057","221","2317","1",NULL
+"2058","222","1302 Волынь","1",NULL
+"2059","222","967","1",NULL
+"2060","222","969","1",NULL
+"2061","223","2136","1",NULL
+"2062","223","2137","1",NULL
+"2063","223","2138","1",NULL
+"2064","223","2140","1",NULL
+"2065","223","2141","1",NULL
+"2066","223","400","1",NULL
+"2067","223","401","1",NULL
+"2068","223","402","1",NULL
+"2069","223","403","1",NULL
+"2070","223","407","1",NULL
+"2071","223","408","1",NULL
+"2072","223","410","1",NULL
+"2073","223","411","1",NULL
+"2074","223","412","1",NULL
+"2075","223","423","1",NULL
+"2076","223","426","1",NULL
+"2077","223","427","1",NULL
+"2078","223","Дуэт","1",NULL
+"2079","223","Иван Калита","1",NULL
+"2080","223","Князь Владимир","1",NULL
+"2081","223","Святогор","1",NULL
+"2082","223","Юрий Долгорукий","1",NULL
+"2083","224","С-3А","1",NULL
+"2084","224","С-3Д","1",NULL
+"2085","225","1111 Ока","1",NULL
+"2086","226","Aquila","1",NULL
+"2087","226","C-30","1",NULL
+"2088","226","C10","1",NULL
+"2089","226","C190","1",NULL
+"2090","226","Road Partner","1",NULL
+"2091","226","Tager","1",NULL
+"2092","226","Vega","1",NULL
+"2093","227","3151","1",NULL
+"2094","227","3153","1",NULL
+"2096","227","3160","1",NULL
+"2097","227","3162 Simbir","1",NULL
+"2098","227","469","1",NULL
+"2099","227","Hunter","1",NULL
+"2100","227","Patriot","1",NULL
+"2101","227","Pickup","1",NULL
+"2102","35","Traverse","1",NULL
+"2103","35","Uplander","1",NULL
+"2104","35","Van","1",NULL
+"2105","35","Vectra","1",NULL
+"2106","35","Venture","1",NULL
+"2107","35","Viva","1",NULL
+"2108","35","Volt","1",NULL
+"2109","35","Zafira","1",NULL
+"2110","52","S30","1",NULL
+"2111","67","GC6","1",NULL
+"2112","80","Q70","1",NULL
+"2113","101","Celliya (530)","1",NULL
+"2114","113","Xedos 6","1",NULL
+"2115","113","Xedos 9","1",NULL
+"2116","127","Pixo","1",NULL
+"2117","127","Prairie","1",NULL
+"2118","127","Presage","1",NULL
+"2119","127","Presea","1",NULL
+"2120","127","President","1",NULL
+"2121","127","Primera","1",NULL
+"2122","127","Pulsar","1",NULL
+"2123","127","Qashqai","1",NULL
+"2124","127","Quest","1",NULL
+"2125","127","R\"nessa","1",NULL
+"2126","127","Rasheen","1",NULL
+"2127","127","Rogue","1",NULL
+"2128","127","Roox","1",NULL
+"2129","127","Safari","1",NULL
+"2130","127","Sentra","1",NULL
+"2131","127","Serena","1",NULL
+"2132","127","Silvia","1",NULL
+"2133","127","Skyline Crossover","1",NULL
+"2134","127","Skyline","1",NULL
+"2135","127","Stagea","1",NULL
+"2136","127","Stanza","1",NULL
+"2137","127","Sunny","1",NULL
+"2138","127","Teana","1",NULL
+"2139","127","Terrano","1",NULL
+"2140","127","Terrano Regulus","1",NULL
+"2141","127","Tiida","1",NULL
+"2142","127","Tino","1",NULL
+"2143","127","Titan","1",NULL
+"2144","127","Vanette","1",NULL
+"2145","127","Versa","1",NULL
+"2146","127","Wingroad","1",NULL
+"2147","127","X-Terra","1",NULL
+"2148","127","X-Trail","1",NULL
+"2149","176","LiteAce","1",NULL
+"2150","176","Mark II","1",NULL
+"2151","176","Mark X","1",NULL
+"2152","176","Mark X ZiO","1",NULL
+"2153","176","MasterAce Surf","1",NULL
+"2154","176","Matrix","1",NULL
+"2155","176","Mega Cruiser","1",NULL
+"2156","176","MR2","1",NULL
+"2157","176","Nadia","1",NULL
+"2158","176","Noah","1",NULL
+"2159","176","Opa","1",NULL
+"2160","176","Origin","1",NULL
+"2161","176","Paseo","1",NULL
+"2162","176","Passo","1",NULL
+"2163","176","Passo Sette","1",NULL
+"2164","176","Picnic","1",NULL
+"2165","176","Platz","1",NULL
+"2166","176","Porte","1",NULL
+"2167","176","Premio","1",NULL
+"2168","176","Previa","1",NULL
+"2169","176","Prius c","1",NULL
+"2170","176","Prius","1",NULL
+"2172","176","Probox","1",NULL
+"2173","176","Progres","1",NULL
+"2174","176","Pronard","1",NULL
+"2175","176","Ractis","1",NULL
+"2176","176","Raum","1",NULL
+"2177","176","RAV 4","1",NULL
+"2178","176","Regius","1",NULL
+"2179","176","RegiusAce","1",NULL
+"2180","176","Rush","1",NULL
+"2181","176","Sai","1",NULL
+"2182","176","Scepter","1",NULL
+"2183","176","Sequoia","1",NULL
+"2184","176","Sera","1",NULL
+"2185","176","Sienna","1",NULL
+"2186","176","Sienta","1",NULL
+"2187","176","Soarer","1",NULL
+"2188","176","Soluna","1",NULL
+"2189","176","Sparky","1",NULL
+"2190","176","Sprinter Carib","1",NULL
+"2191","176","Sprinter Marino","1",NULL
+"2192","176","Sprinter Trueno","1",NULL
+"2193","176","Sprinter","1",NULL
+"2194","176","Starlet","1",NULL
+"2195","176","Succeed","1",NULL
+"2196","176","Supra","1",NULL
+"2197","176","Tacoma","1",NULL
+"2198","176","Tercel","1",NULL
+"2199","176","TownAce","1",NULL
+"2200","176","Tundra","1",NULL
+"2201","176","Urban Cruiser","1",NULL
+"2202","176","Vanguard","1",NULL
+"2203","176","Vellfire","1",NULL
+"2204","176","Venza","1",NULL
+"2205","176","Verossa","1",NULL
+"2206","176","Verso","1",NULL
+"2207","176","Verso-S","1",NULL
+"2208","176","Vios","1",NULL
+"2209","176","Vista","1",NULL
+"2210","176","Vitz","1",NULL
+"2211","176","Voltz","1",NULL
+"2212","176","Voxy","1",NULL
+"2213","176","WiLL Cypha","1",NULL
+"2214","176","WiLL","1",NULL
+"2215","176","Windom","1",NULL
+"2216","176","Wish","1",NULL
+"2217","176","Yaris","1",NULL
+"2218","176","Yaris Verso","1",NULL
+"2219","28","ELR","1",NULL
+"2220","35","Silverado","1",NULL
+"2221","37","Jumpy","1",NULL
+"2222","61","Scudo","1",NULL
+"2223","63","Bronco II","1",NULL
+"2224","76","Vezel","1",NULL
+"2225","116","Vito","1",NULL
+"2226","127","Primastar","1",NULL
+"2227","130","Vivaro","1",NULL
+"2228","135","108","1",NULL
+"2229","135","Expert","1",NULL
+"2230","147","Trafic","1",NULL
+"2231","166","WRX","1",NULL
+"2232","167","Celerio","1",NULL
+"2233","184","Amarok","1",NULL
+"2234","184","California","1",NULL
+"2235","184","Caravelle","1",NULL
+"2236","184","Transporter","1",NULL
+"2237","26","F5","1",NULL
+"2238","47","Urvan","1",NULL
+"2239","63","Tourneo Custom","1",NULL
+"2240","79","Grace","1",NULL
+"2241","114","650S","1",NULL
+"2242","123","Minicab","1",NULL
+"2243","127","Caravan","1",NULL
+"2244","127","NV350 Caravan","1",NULL
+"2245","127","Urvan","1",NULL
+"2246","135","Bipper","1",NULL
+"2247","32","CM-8","1",NULL
+"2248","34","M11 (A3)","1",NULL
+"2249","80","Q40","1",NULL
+"2251","167","Vitara","1",NULL
+"2252","25","Encore","1",NULL
+"2253","34","Bonus 3 (E3/A19)","1",NULL
+"2254","34","Tiggo 5","1",NULL
+"2255","35","SS","1",NULL
+"2256","51","Lancer","1",NULL
+"2257","59","Besturn X80","1",NULL
+"2258","67","SC7","1",NULL
+"2259","95","Sesto Elemento","1",NULL
+"2260","99","NX","1",NULL
+"2261","280","GTR","1",NULL
+"2265","2","TLX","1",NULL
+"2266","3","Disco Volante","1",NULL
+"2268","47","mi-DO","1",NULL
+"2269","89","Renegade","1",NULL
+"2270","101","Smily","1",NULL
+"2271","282","Boliger","1",NULL
+"2272","284","Tropica Roadster","1",NULL
+"2273","10","TT RS","1",NULL
+"2274","10","TTS","1",NULL
+"2275","63","Tourneo Courier","1",NULL
+"2276","71","Hover H3","1",NULL
+"2277","71","Hover H5","1",NULL
+"2278","71","Hover H6","1",NULL
+"2279","101","Solano","1",NULL
+"2280","116","AMG GT","1",NULL
+"2281","165","Korando Sports","1",NULL
+"2282","176","ProAce","1",NULL
+"2285","79","Aslan","1",NULL
+"2286","88","XE","1",NULL
+"2287","97","Discovery Sport","1",NULL
+"2288","289","Roadster","1",NULL
+"2289","290","H6","1",NULL
+"2290","21","H530","1",NULL
+"2291","34","Arrizo 7","1",NULL
+"2292","61","500X","1",NULL
+"2293","63","Focus (North America)","1",NULL
+"2294","147","Dokker","1",NULL
+"2295","147","Lodgy","1",NULL
+"2296","291","B10","1",NULL
+"2297","291","B11","1",NULL
+"2298","291","B12","1",NULL
+"2299","291","B3","1",NULL
+"2300","291","B4","1",NULL
+"2301","291","B5","1",NULL
+"2302","291","B6","1",NULL
+"2303","291","B7","1",NULL
+"2304","291","B8","1",NULL
+"2305","291","B9","1",NULL
+"2306","291","C1","1",NULL
+"2307","291","C2","1",NULL
+"2308","291","D10","1",NULL
+"2309","291","D3","1",NULL
+"2310","291","D5","1",NULL
+"2311","291","Roadster","1",NULL
+"2312","291","XD3","1",NULL
+"2313","18","1M","1",NULL
+"2314","18","M3","1",NULL
+"2315","18","M4","1",NULL
+"2316","18","M5","1",NULL
+"2317","18","M6","1",NULL
+"2318","18","X5 M","1",NULL
+"2319","18","X6 M","1",NULL
+"2320","18","Z3 M","1",NULL
+"2321","18","Z4 M","1",NULL
+"2322","28","CTS-V","1",NULL
+"2323","36","300C SRT8","1",NULL
+"2324","63","Fiesta ST","1",NULL
+"2327","63","Focus RS","1",NULL
+"2328","63","Focus ST","1",NULL
+"2329","63","Mondeo ST","1",NULL
+"2330","76","Civic Type R","1",NULL
+"2331","88","XFR","1",NULL
+"2332","88","XKR","1",NULL
+"2333","89","Grand Cherokee SRT8","1",NULL
+"2334","92","Cee\"d GT","1",NULL
+"2335","99","IS F","1",NULL
+"2336","99","RC F","1",NULL
+"2337","113","3 MPS","1",NULL
+"2338","113","6 MPS","1",NULL
+"2339","116","A-klasse AMG","1",NULL
+"2340","116","C-klasse AMG","1",NULL
+"2341","116","CL-klasse AMG","1",NULL
+"2342","116","CLA-klasse AMG","1",NULL
+"2343","116","CLK-klasse AMG","1",NULL
+"2344","116","CLS-klasse AMG","1",NULL
+"2345","116","E-klasse AMG","1",NULL
+"2346","116","G-klasse AMG 6x6","1",NULL
+"2347","116","G-klasse AMG","1",NULL
+"2348","116","GLA-klasse AMG","1",NULL
+"2349","116","M-klasse AMG","1",NULL
+"2350","116","Maybach S-klasse","1",NULL
+"2351","116","R-klasse AMG","1",NULL
+"2352","116","S-klasse AMG","1",NULL
+"2353","116","SL-klasse AMG","1",NULL
+"2354","116","SLK-klasse AMG","1",NULL
+"2355","130","Astra OPC","1",NULL
+"2356","130","Corsa OPC","1",NULL
+"2357","130","Insignia OPC","1",NULL
+"2358","130","Meriva OPC","1",NULL
+"2359","130","Vectra OPC","1",NULL
+"2360","130","Zafira OPC","1",NULL
+"2361","139","911 GT2","1",NULL
+"2362","139","911 GT3","1",NULL
+"2363","147","Clio RS","1",NULL
+"2364","147","Clio V6","1",NULL
+"2365","147","Megane RS","1",NULL
+"2366","151","Streetwise","1",NULL
+"2367","157","Ibiza Cupra","1",NULL
+"2368","157","Leon Cupra","1",NULL
+"2369","159","Fabia RS","1",NULL
+"2370","159","Octavia RS","1",NULL
+"2371","166","Impreza WRX","1",NULL
+"2372","167","Samurai","1",NULL
+"2373","176","Camry (Japan)","1",NULL
+"2374","176","Camry Solara","1",NULL
+"2375","176","Corolla Spacio","1",NULL
+"2376","176","Corolla Verso","1",NULL
+"2377","184","Golf GTI","1",NULL
+"2378","184","Golf R","1",NULL
+"2379","184","Lupo GTI","1",NULL
+"2380","184","Polo GTI","1",NULL
+"2381","184","Polo R WRC","1",NULL
+"2382","184","Scirocco R","1",NULL
+"2383","37","C-ZERO","1",NULL
+"2385","135","205 GTi","1",NULL
+"2386","135","208 GTi","1",NULL
+"2387","135","iOn","1",NULL
+"2388","139","918 Spyder","1",NULL
+"2389","157","Mii","1",NULL
+"2390","85","MU-X","1",NULL
+"2391","166","Impreza WRX STi","1",NULL
+"2392","166","WRX STi","1",NULL
+"5811","71","Voleex C30","1",NULL
+"5812","166","Levorg","1",NULL
+"5813","176","Prius v (+)","1",NULL
+"18880","116","GL-klasse AMG","1",NULL
+"18881","116","V-klasse","1",NULL
+"18882","88","XJR","1",NULL
+"18960","24","EB Veyron 16.4","1",NULL
+"18961","75","Statesman","1",NULL
+"18962","98","Х9","1",NULL
+"18963","116","AMG GLE","1",NULL
+"18964","116","AMG GLE Coupe","1",NULL
+"18965","116","GLE","1",NULL
+"18966","116","GLE Coupe","1",NULL
+"18967","123","Lancer Ralliart","1",NULL
+"18968","176","GT86","1",NULL
+"18969","185","V40 Cross Country","1",NULL
+"18970","193","Grand Tiger","1",NULL
+"18971","211","Ё-Кроссовер","1",NULL
+"18972","227","3159","1",NULL
+"18985","3589","5","1",NULL
+"19062","25","Estate Wagon","1",NULL
+"19063","25","Verano","1",NULL
+"19064","28","ATS-V","1",NULL
+"19065","60","488 GTB","1",NULL
+"19066","63","Explorer Sport Trac","1",NULL
+"19067","63","Spectron","1",NULL
+"19068","63","Telstar","1",NULL
+"19069","67","GC9","1",NULL
+"19070","114","540C","1",NULL
+"19071","114","570S","1",NULL
+"19072","127","Juke Nismo","1",NULL
+"19073","127","Qashqai+2","1",NULL
+"19074","130","Karl","1",NULL
+"19075","139","Cayman GT4","1",NULL
+"19076","185","S60 Cross Country","1",NULL
+"19077","185","V60 Cross Country","1",NULL
+"19078","290","H2","1",NULL
+"19079","290","H8","1",NULL
+"19080","3591","ST1","1",NULL
+"19081","3590","Cevennes","1",NULL
+"19082","3590","Hemera","1",NULL
+"19083","3590","Speedster II","1",NULL
+"19085","3589","3","1",NULL
+"19086","3589","4","1",NULL
+"19137","21","H230","1",NULL
+"19138","123","Attrage","1",NULL
+"19139","147","Kadjar","1",NULL
+"19140","165","Nomad","1",NULL
+"19141","3619","Beast","1",NULL
+"19142","101","X50","1",NULL
+"19143","3620","Concept_One","1",NULL
+"19203","18","2er Grand Tourer","1",NULL
+"19204","113","CX-3","1",NULL
+"19205","116","GLC-klasse","1",NULL
+"19206","135","308 GTi","1",NULL
+"19207","156","iM","1",NULL
+"19208","165","Tivoli","1",NULL
+"19209","215","Vesta","1",NULL
+"19210","215","XRAY","1",NULL
+"19211","290","H9","1",NULL
+"19234","147","Talisman","1",NULL
+"19257","3","2600","1",NULL
+"19258","10","920","1",NULL
+"19259","15","S","1",NULL
+"19260","18","2000 C/CS","1",NULL
+"19261","18","315","1",NULL
+"19262","18","321","1",NULL
+"19263","18","326","1",NULL
+"19264","18","340","1",NULL
+"19265","25","Skyhawk","1",NULL
+"19266","25","Special","1",NULL
+"19267","25","Super","1",NULL
+"19268","28","Series 62","1",NULL
+"19269","35","El Camino","1",NULL
+"19270","35","Master","1",NULL
+"19271","35","Special DeLuxe","1",NULL
+"19272","37","Traction Avant","1",NULL
+"19273","44","Midget II","1",NULL
+"19274","51","WC","1",NULL
+"19275","63","Galaxie","1",NULL
+"19276","63","Model A","1",NULL
+"19277","63","Model T","1",NULL
+"19278","63","Torino","1",NULL
+"19279","73","S5","1",NULL
+"19280","87","S3","1",NULL
+"19281","93","Regera","1",NULL
+"19282","113","Cosmo","1",NULL
+"19283","116","190 SL","1",NULL
+"19284","116","W100","1",NULL
+"19285","116","W110","1",NULL
+"19286","116","W136","1",NULL
+"19287","116","W189","1",NULL
+"19288","130","Olympia","1",NULL
+"19289","137","Barracuda","1",NULL
+"19290","137","Fury","1",NULL
+"19291","137","Road Runner","1",NULL
+"19292","137","Valiant","1",NULL
+"19293","139","356","1",NULL
+"19294","149","Silver Cloud","1",NULL
+"19295","149","Silver Shadow","1",NULL
+"19296","149","Silver Wraith","1",NULL
+"19297","156","iA","1",NULL
+"19298","170","57","1",NULL
+"19299","184","Karmann-Ghia","1",NULL
+"19300","184","Type 2","1",NULL
+"19301","185","120 Series","1",NULL
+"19302","192","T600","1",NULL
+"19303","192","Z300","1",NULL
+"19304","215","EL Lada","1",NULL
+"19305","216","М-72","1",NULL
+"19306","3664","Trumpf Junior","1",NULL
+"19307","3665","Firedome","1",NULL
+"19308","3665","Fireflite","1",NULL
+"19309","3666","Clipper","1",NULL
+"19310","3666","One-Twenty","1",NULL
+"19311","3666","Twelve","1",NULL
+"19312","3667","MB","1",NULL
+"19313","3668","Т98","1",NULL
+"19339","8","Topic","1",NULL
+"19340","15","Bentayga","1",NULL
+"19341","36","Imperial Crown","1",NULL
+"19343","80","Q30","1",NULL
+"19344","87","J4 (Heyue A30)","1",NULL
+"19345","87","M5","1",NULL
+"19346","88","F-Pace","1",NULL
+"19347","116","W121","1",NULL
+"19348","123","Jeep J","1",NULL
+"19349","147","Sandero RS","1",NULL
+"19350","149","Dawn","1",NULL
+"19351","216","12 ЗИМ","1",NULL
+"19352","3676","2000","1",NULL
+"19390","3","105/115","1",NULL
+"19391","18","M2","1",NULL
+"19392","28","CT6","1",NULL
+"19393","63","Custom","1",NULL
+"19394","116","W120","1",NULL
+"19395","147","KWID","1",NULL
+"19396","172","Model X","1",NULL
+"19397","176","Mirai","1",NULL
+"19398","179","TR6","1",NULL
+"19399","184","Type 1","1",NULL
+"19400","216","67","1",NULL
+"19401","3689","Gentra","1",NULL
+"19402","3689","Matiz","1",NULL
+"19403","3690","110","1",NULL
+"19404","76","Acty","1",NULL
+"19405","214","Фора","1",NULL
+"19406","3689","Nexia R3","1",NULL
+"19459","9","DB5","1",NULL
+"19460","25","Limited","1",NULL
+"19461","28","XT5","1",NULL
+"19462","63","Fairlane","1",NULL
+"19463","116","GLS-klasse","1",NULL
+"19464","116","GLS-klasse AMG","1",NULL
+"19465","116","W108","1",NULL
+"19466","176","2000GT","1",NULL
+"19467","179","Stag","1",NULL
+"19468","3705","Hornet","1",NULL
+"19469","3706","E10","1",NULL
+"19513","44","Move Latte","1",NULL
+"19514","61","508","1",NULL
+"19515","63","Ranchero","1",NULL
+"19516","80","QX30","1",NULL
+"19517","129","Toronado","1",NULL
+"19518","3728","Fenyr Supersport","1",NULL
+"19519","3728","Lykan Hypersport","1",NULL
+"19520","37","DS","1",NULL
+"19521","37","SM","1",NULL
+"19522","60","FXX K","1",NULL
+"19523","114","675LT","1",NULL
+"19555","10","F103","1",NULL
+"19556","10","Typ R","1",NULL
+"19557","15","Mark VI","1",NULL
+"19558","15","R Type","1",NULL
+"19559","15","T-Series","1",NULL
+"19560","18","3/15","1",NULL
+"19561","18","3200","1",NULL
+"19562","18","327","1",NULL
+"19563","18","501","1",NULL
+"19564","18","502","1",NULL
+"19565","18","503","1",NULL
+"19566","18","507","1",NULL
+"19567","18","New Class","1",NULL
+"19568","25","Envision","1",NULL
+"19569","35","Bolt","1",NULL
+"19570","76","Ascot Innova","1",NULL
+"19571","99","LC","1",NULL
+"19572","113","Eunos 100","1",NULL
+"19573","116","SLC-klasse AMG","1",NULL
+"19574","116","SLC-klasse","1",NULL
+"19575","116","W111","1",NULL
+"19576","116","W128","1",NULL
+"19577","116","W186","1",NULL
+"19578","135","402","1",NULL
+"19579","167","Twin","1",NULL
+"19580","176","Pixis Epoch","1",NULL
+"19581","176","Pixis Mega","1",NULL
+"19582","176","Pixis Space","1",NULL
+"19583","184","Golf R32","1",NULL
+"19584","192","Z100","1",NULL
+"19585","223","424","1",NULL
+"19586","3739","Deluxe Eight","1",NULL
+"19601","3","1900","1",NULL
+"19602","3","6C","1",NULL
+"19603","18","600","1",NULL
+"19604","18","700","1",NULL
+"19605","18","E3","1",NULL
+"19606","18","E9","1",NULL
+"19607","35","Chevelle","1",NULL
+"19608","35","Fleetmaster","1",NULL
+"19609","36","180","1",NULL
+"19610","36","300","1",NULL
+"19611","36","Cordoba","1",NULL
+"19612","36","Windsor","1",NULL
+"19613","37","LN","1",NULL
+"19614","60","GTC4Lusso","1",NULL
+"19615","63","GT40","1",NULL
+"19616","92","Niro","1",NULL
+"19617","130","Kapitan","1",NULL
+"19618","135","203","1",NULL
+"19619","139","718 Boxster","1",NULL
+"19620","3689","R2","1",NULL
+"19686","88","F-Type SVR","1",NULL
+"19687","130","P4","1",NULL
+"19688","135","Traveller","1",NULL
+"19689","9","DB11","1",NULL
+"19690","10","Q2","1",NULL
+"19691","10","SQ7","1",NULL
+"19692","24","Chiron","1",NULL
+"19693","35","C/K","1",NULL
+"19694","35","Deluxe","1",NULL
+"19695","52","AX7","1",NULL
+"19696","63","Zephyr","1",NULL
+"19697","85","Hombre","1",NULL
+"19698","95","Centanario","1",NULL
+"19699","111","Levante","1",NULL
+"19700","114","570GT","1",NULL
+"19701","116","GLC-klasse AMG","1",NULL
+"19702","117","Eight","1",NULL
+"19703","135","201","1",NULL
+"19704","135","202","1",NULL
+"19705","135","403","1",NULL
+"19706","135","404","1",NULL
+"19707","138","Catalina","1",NULL
+"19708","147","10","1",NULL
+"19709","147","4CV","1",NULL
+"19710","147","Caravelle","1",NULL
+"19711","157","Ateca","1",NULL

@@ -1,0 +1,44 @@
+//Profile items
+.Error-page {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	h1 {
+		font-size: 28px;
+		color: #666666;
+		font-weight: 400;
+		margin: 24px 0;
+	}
+	p {
+		font-size: 16px;
+		margin-bottom: 25px;
+	}
+	a {
+		font-size: 21px;
+		text-decoration: underline;
+		&:hover,&:focus {
+			text-decoration: none;
+		}
+	}
+	&-content {
+		display: flex;
+		width: 780px;
+		&>div {
+			width:50%;
+			&:nth-child(2) {
+				text-align: right;
+				img {
+					width: 300px;
+				}
+			}
+			&:nth-child(1) {
+				img {
+					width: 180px;
+				}
+			}
+		}
+		
+	}
+}

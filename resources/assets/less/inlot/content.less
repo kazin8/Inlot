@@ -1,0 +1,107 @@
+//content
+//registration
+@import 'Registration-module/Registration.less';
+
+//validator
+@import 'validation/validation.less';
+
+//step add item 1
+@import 'Add-item/add-item-stage-1.less';
+
+//owl all
+@import 'owl/owl.less';
+
+//items product prevuew
+@import 'productsItem/items.less';
+
+//lk settings
+@import 'cabinet/settings.less';
+
+//Profile
+@import 'Profile/Profile.less';
+
+//Card item
+@import 'Card-item/Card.less';
+
+//Card item
+@import 'Message/Message.less';
+
+//Card item
+@import 'Error-page/404.less';
+
+* {
+	outline: none !important;
+}
+.full-height-page {
+	min-height: calc(~'100vh - 113px');
+	padding-top: 60px;
+	padding-bottom: 20px;
+	/* display: flex;
+	align-items: center; */
+}
+/*big text*/
+h1,h2,h3 {
+	line-height: @line-height-base + .2;
+}
+big {
+	font-size: 115%;
+}
+.op-0 {
+	opacity: 0;
+	visibility: hidden;
+}
+.offset-text {
+	margin-left: -25px;
+	margin-right: -25px;
+}
+/*big text END*/
+/*RESET FILE*/
+.file-drop-zone {
+	padding: 0;
+	border: none;
+	margin:0;
+}
+.file-drop-zone-title {
+	display: none;
+}
+.file-preview {
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+/*RESET FILE end*/
+
+//temp disable responsive
+.header,.footer,.content,.header-lower {
+	min-width: 1160px;
+}
+.container {
+	width: 1160px !important;
+}
+.navbar-right {
+	float: right!important;
+}
+.navbar-nav {
+	float: left;
+}
+.header .navbar-brand {
+	margin-left: 0;
+}
+//temp disable responsive
+//select color 
+.bg-select {
+	&-color {
+		display: inline-block;
+		vertical-align: middle;
+		width: 15px;
+		height: 15px;
+		border-radius: 50%;
+		margin-right: 10px;
+		margin-top: -1px;
+	}
+	&-text {
+		display: inline-block;
+		vertical-align: middle;
+
+	}
+}
